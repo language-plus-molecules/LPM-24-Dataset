@@ -41,6 +41,21 @@ Datasets are made available to download through HuggingFace datasets.
   </tr>
 </table>
 
+------------------------------------
+
+## Source Datasets
+
+We would like to thank the input databases we used to construct this dataset!
+
+* [Chemical Function (CheF)](https://chefdb.app/)
+  * [paper](https://arxiv.org/abs/2309.08765)
+* [ChemFOnt: the chemical functional ontology resource](https://www.chemfont.ca/)
+  * [paper](https://academic.oup.com/nar/article/51/D1/D1220/6777791)
+* [Pubchem](https://pubchem.ncbi.nlm.nih.gov/)
+  * [paper](https://academic.oup.com/nar/article/47/D1/D1102/5146201)
+
+
+
 
 
 
