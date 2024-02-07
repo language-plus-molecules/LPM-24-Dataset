@@ -25,7 +25,7 @@ Datasets are made available to download through HuggingFace datasets.
     <td>The full training data for the shared task.</td>
   </tr>
   <tr>
-    <td>Train</td>
+    <td>Train-Extra</td>
     <td> <a href="https://huggingface.co/datasets/language-plus-molecules/LPM-24_train-extra"> LPM-24_train-extra </a> </td>
     <td>Extra training data for the shared task with 5 captions generated for each molecule.</td>
   </tr>
@@ -40,6 +40,8 @@ Datasets are made available to download through HuggingFace datasets.
     <td>The evaluation data for molecule caption generation. This split isn't available yet because we're still adding to it!</td>
   </tr>
 </table>
+
+Further, datasets are available in the `release' folder for all except train extra.
 
 ------------------------------------
 
