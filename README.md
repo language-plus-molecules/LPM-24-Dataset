@@ -5,7 +5,7 @@ This repository contains information on the creation, evaluation, and benchmark 
 
 Language-molecule models have emerged as an exciting direction for molecular discovery and understanding. However, training these models is challenging due to the scarcity of molecule-language pair datasets. At this point, datasets have been released which are 1) small and scraped from existing databases, 2) large but noisy and constructed by performing entity linking on the scientific literature, and 3) template-based built on prediction datasets. In this document, we detail the *L+M-24* dataset, which has been created for the Language + Molecules Workshop shared task at ACL 2024. In particular, *L+M-24* is designed to focus on three key benefits of natural language in molecule design: compositionality, functionality, and abstraction.
 
-Please see the manuscript for this dataset [here](FILL_IN).
+Please see the manuscript for this dataset [here](https://blender.cs.illinois.edu/paper/molecules24.pdf).
 
 -----------------------------------------
 
