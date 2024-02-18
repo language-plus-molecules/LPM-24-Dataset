@@ -64,7 +64,7 @@ If you found this dataset or code useful, please cite:
 
 
 ```bibtex
-@article{edwards2024,
+@article{edwards2024_LPM24,
   title={L+M-24: Building a Dataset for Language+Molecules @ ACL 2024},
   author={Edwards, Carl and Wang, Qingyun and Zhou, Lawrence and Ji, Heng},
   journal={arXiv preprint arXiv:},
