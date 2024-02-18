@@ -44,6 +44,13 @@ Datasets are made available to download through HuggingFace datasets.
 Further, datasets are available in zipped file `data.zip'. Some files that may be useful for training or necessary for evaluation are contained in `additional_data.zip'. 
 
 ------------------------------------
+## Evaluation
+
+Evaluation code and instructions can be found in [evaluation](/evaluation).
+
+
+------------------------------------
+
 
 ## Source Datasets
 
@@ -55,8 +62,6 @@ We would like to thank the input databases we used to construct this dataset!
   * [paper](https://academic.oup.com/nar/article/51/D1/D1220/6777791)
 * [Pubchem](https://pubchem.ncbi.nlm.nih.gov/)
   * [paper](https://academic.oup.com/nar/article/47/D1/D1102/5146201)
-
-
 
 
 ### Citation
