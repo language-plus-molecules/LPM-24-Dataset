@@ -41,7 +41,7 @@ Datasets are made available to download through HuggingFace datasets.
   </tr>
 </table>
 
-Further, datasets are available in the `release' folder for all except train extra.
+Further, datasets are available in zipped file `data.zip'. Some files that may be useful for training or necessary for evaluation are contained in `additional_data.zip'. 
 
 ------------------------------------
 
@@ -59,5 +59,36 @@ We would like to thank the input databases we used to construct this dataset!
 
 
 
+### Citation
+If you found this dataset or code useful, please cite:
+
+
+```bibtex
+@article{edwards2024,
+  title={L+M-24: Building a Dataset for Language+Molecules @ ACL 2024},
+  author={Edwards, Carl and Wang, Qingyun and Zhou, Lawrence and Ji, Heng},
+  journal={arXiv preprint arXiv:},
+  year={2024}
+}
+
+@inproceedings{edwards-etal-2022-translation,
+    title = "Translation between Molecules and Natural Language",
+    author = "Edwards, Carl  and
+      Lai, Tuan  and
+      Ros, Kevin  and
+      Honke, Garrett  and
+      Cho, Kyunghyun  and
+      Ji, Heng",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.26",
+    pages = "375--413",
+}
+```
+
+as well as the source datasets. 
 
 
