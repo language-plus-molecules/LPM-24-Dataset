@@ -1,5 +1,5 @@
 # Evaluation Code: Translation between Molecules and Natural Language
-Task evaluation code for "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)".
+Task evaluation code for "[L+M-24: Building a Dataset for Language+Molecules @ ACL 2024]()".
 
 Based on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)".
 
