@@ -131,7 +131,7 @@ def process(text_model, input_file, output_file, text_trunc_length, direction):
 
     combos = [eval(line.strip().split('\t')[0]) for line in open('train_withheld_combos.txt').readlines()]
 
-    lines = process_combos(outputs, combos)
+    lines = set(process_combos(outputs, combos))
 
     print(len(lines))
 

@@ -77,6 +77,10 @@ The input format should be a tab-separated txt file with three columns and the h
     <td>python fcd_metric.py --input_file caption2smiles_example.txt</td>
     <td>Evaluate FCD metric for molecule generation.</td>
   </tr>
+  <tr>
+    <td>python create_heldout_file.py --input_file caption2smiles_example.txt --output_file caption2smiles_example_HO.txt --direction molecule</td>
+    <td>Create a results file only containing results with held-out combo data points. File is currently hardcoded to use combos from the train-validation split. </td>
+  </tr>
 </table>
 
 
