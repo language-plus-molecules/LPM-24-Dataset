@@ -41,7 +41,7 @@ Datasets are made available to download through HuggingFace datasets.
   </tr>
 </table>
 
-Further, datasets are available in zipped file `data.zip'. Some files that may be useful for training or necessary for evaluation are contained in `additional_data.zip'. 
+Further, datasets are available in zipped file `data.zip`. Some files that may be useful for training or necessary for evaluation are contained in `additional_data.zip`. 
 
 ------------------------------------
 ## Evaluation
