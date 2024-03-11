@@ -1,5 +1,5 @@
 # Evaluation Code: Translation between Molecules and Natural Language
-Task evaluation code for "[L+M-24: Building a Dataset for Language+Molecules @ ACL 2024]()".
+Task evaluation code for "[L+M-24: Building a Dataset for Language+Molecules @ ACL 2024](https://arxiv.org/abs/2403.00791)".
 
 Based on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)".
 
@@ -93,7 +93,7 @@ If you found our work useful, please cite:
 @article{edwards2024_LPM24,
   title={L+M-24: Building a Dataset for Language+Molecules @ ACL 2024},
   author={Edwards, Carl and Wang, Qingyun and Zhou, Lawrence and Ji, Heng},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2403.00791},
   year={2024}
 }
 
