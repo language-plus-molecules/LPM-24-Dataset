@@ -9,6 +9,10 @@ Please see the manuscript for this dataset [here](https://blender.cs.illinois.ed
 
 -----------------------------------------
 
+## News
+
+The evaluation split for caption generation has been uploaded now!
+
 ## Dataset Download
 
 Datasets are made available to download through HuggingFace datasets. 
@@ -36,8 +40,8 @@ Datasets are made available to download through HuggingFace datasets.
   </tr>
   <tr>
     <td>Evaluation -- Caption Generation</td>
-    <td>LPM-24_eval-caption</td>
-    <td>The evaluation data for molecule caption generation. This split isn't available yet because we're still adding to it!</td>
+    <td><a href="https://huggingface.co/datasets/language-plus-molecules/LPM-24_eval-caption"> LPM-24_eval-caption </a></td>
+    <td>The evaluation data for molecule caption generation. </td>
   </tr>
 </table>
 
