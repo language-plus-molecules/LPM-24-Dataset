@@ -1,5 +1,5 @@
 # Evaluation Code: Translation between Molecules and Natural Language
-Task evaluation code for "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)".
+Task evaluation code for "[L+M-24: Building a Dataset for Language+Molecules @ ACL 2024](https://arxiv.org/abs/2403.00791)".
 
 Based on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)".
 
@@ -14,11 +14,13 @@ python -m spacy download en_core_web_sm
 pip install git+https://github.com/samoturk/mol2vec
 python -c "import nltk; nltk.download('wordnet')"
 chmod u+x *.sh
+unzip ../additional_data.zip
 ```
 
 Follow https://github.com/samoturk/mol2vec/issues/14 for mol2vec installion. A modified version of features.py for this can be found in the repo. 
 An old version of FCD (1.1) is used because https://github.com/bioinf-jku/FCD/issues/14 isn't fixed. 
 
+Certain additional data files are required for some commands (`nested_props.json`, `train_withheld_combos.txt`). These can be found in `../additional_data.zip`.
 
 ### Downloads
 
@@ -93,7 +95,7 @@ If you found our work useful, please cite:
 @article{edwards2024_LPM24,
   title={L+M-24: Building a Dataset for Language+Molecules @ ACL 2024},
   author={Edwards, Carl and Wang, Qingyun and Zhou, Lawrence and Ji, Heng},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2403.00791},
   year={2024}
 }
 
