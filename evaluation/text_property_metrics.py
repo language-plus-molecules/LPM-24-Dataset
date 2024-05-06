@@ -158,7 +158,7 @@ def evaluate(text_model, input_file, output_file, text_trunc_length):
                 print(type(dictionary[key]))
                 zz
         val_list = [dictionary[key] for key in dictionary if dictionary[key] != None]
-        return np.mean(val_list) if len(val_list) != 0 else 0.0
+        return np.mean(val_list) if len(val_list) != 0 else 1.0
 
     def process_combos(outputs, combos):
     

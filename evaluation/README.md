@@ -3,6 +3,12 @@ Task evaluation code for "[L+M-24: Building a Dataset for Language+Molecules @ A
 
 Based on "[Translation between Molecules and Natural Language](https://arxiv.org/abs/2204.11817)".
 
+## News
+
+We have updated the code for ``text_property_metrics.py'' to produce more intuitive results for missing properties in the validation set. We will update table 3 in the dataset manuscript very soon to address this change. 
+
+Only the Overall and Biomedical columns of Table 3 change. For reference, it changes Meditron results for the biomedical category from 16 to 35 and Overall from 12.04 to 16.8. 
+
 
 ## Installation
 The requirements for the evaluation code conda environment are in environment_eval.yml. An environment can be created using the following commands: 
