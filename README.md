@@ -11,6 +11,10 @@ Please see the manuscript for this dataset [here](https://arxiv.org/pdf/2403.007
 
 ## News
 
+* Submissions can now be uploaded to Codabench! See the competitions at: [Molecule Captioning](https://www.codabench.org/competitions/2914) and [Molecule Generation](https://www.codabench.org/competitions/3014). See instructions on the [website](https://language-plus-molecules.github.io/#submission).
+
+* Example MolT5-Small submission files are available as "MolT5-Small_cap2smi_submit.zip" and "MolT5-Small_smi2cap_submit.zip". 
+
 * The evaluation split for caption generation has been uploaded now!
 
 * We have updated the code for ``text_property_metrics.py'' to produce more intuitive results for missing properties in the validation set. We will update tables 3 and 4 in the dataset manuscript very soon to address this change.
