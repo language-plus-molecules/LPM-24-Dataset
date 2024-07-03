@@ -309,8 +309,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     acc, prec, recall, f1, accuracy_comb, precision_comb, recall_comb, f1_comb = evaluate(args.text_model, args.input_file, args.output_file, args.text_trunc_length)
 
-    print(acc, prec, recall, f1)
-    print('Combo:', accuracy_comb, precision_comb, recall_comb, f1_comb)
+    #print(acc, prec, recall, f1)
+    print('\n\nCombo:', precision_comb, recall_comb, f1_comb, "(P, R, F-1)")
 
     
     rel_props = ['Overall', 'Biomedical', 'Human Interaction and Organoleptics', 'Agriculture and Industry', 'Light and electricity',
@@ -318,6 +318,14 @@ if __name__ == "__main__":
         'Light and electricity__electros', 'Biomedical__inhibitors', 'Biomedical__antis', 'Biomedical__modulators',
         'Biomedical__antagonists', 'Biomedical__treatments', 'Biomedical__agonists', 'Biomedical__cancer', 'Biomedical__disease']
 
+    print('\n\n')
+    print('Precision:')
+    for key in rel_props:
+        print(key, prec[key])
+
+    print('Recall:')
+    for key in rel_props:
+        print(key, recall[key])
 
     print('F-1 Scores:')
     for key in rel_props:
