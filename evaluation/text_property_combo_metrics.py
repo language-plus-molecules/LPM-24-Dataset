@@ -234,7 +234,7 @@ def evaluate(text_model, input_file, output_file, text_trunc_length):
                 if (gtc1 and gtc2) and (outc1 and outc2): TP+=1#TP[combo] += 1
                 if (gtc1 and gtc2) and (not outc1 or not outc2): FN+=1#FN[combo] += 1
                 if (not gtc1 or not gtc2) and (outc1 and outc2): FP+=1#FP[combo] += 1
-                if (not gtc1 or not gtc2) and (not outc1 or outc2): TN+=1#TN[combo] += 1
+                if (not gtc1 or not gtc2) and (not outc1 or not outc2): TN+=1#TN[combo] += 1
 
         return (TP, TN, FP, FN)
 
@@ -260,8 +260,9 @@ def evaluate(text_model, input_file, output_file, text_trunc_length):
         print('Recall:', recall_comb, file=f)
         print('F1:', f1_comb, file=f)
 
+    
 
-    #return
+    return accuracy_comb, precision_comb, recall_comb, f1_comb
 
 
 

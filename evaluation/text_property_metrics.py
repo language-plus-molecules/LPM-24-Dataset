@@ -61,6 +61,23 @@ def unflatten(dictionary, separator='__'):
 
 
 
+def flatten_float(dictionary, separator='__'):
+    rv = []
+    for key in dictionary:
+        prop = dictionary[key]
+        if isinstance(prop, dict):
+            rv += [(key + separator + s[0], s[1]) for s in flatten_float(prop, separator=separator)]
+        #elif isinstance(prop, str):
+        #    rv.append(key + separator + prop)
+        elif isinstance(prop, float):
+            rv.append((key, prop))
+        elif prop is None:
+            continue
+        else:
+            print(type(prop), prop)
+            zz
+    return rv
+
 
 
 def zero_division(n, d):
@@ -186,7 +203,7 @@ def evaluate(text_model, input_file, output_file, text_trunc_length):
                 if (gtc1 and gtc2) and (outc1 and outc2): TP+=1
                 if (gtc1 and gtc2) and (not outc1 or not outc2): FN+=1
                 if (not gtc1 or not gtc2) and (outc1 and outc2): FP+=1
-                if (not gtc1 or not gtc2) and (not outc1 or outc2): TN+=1
+                if (not gtc1 or not gtc2) and (not outc1 or not outc2): TN+=1
 
         return (TP, TN, FP, FN)
 
@@ -199,44 +216,69 @@ def evaluate(text_model, input_file, output_file, text_trunc_length):
         
 
         print('Accuracy:', file=f)
+        orig_acc = {}
         tmp_dict = copy.deepcopy(uf_acc)
         while True:
+            #print(tmp_dict)
             tmp_dict = take_average(tmp_dict, f=f)
 
             if isinstance(tmp_dict, float): break
+            
+            flt = flatten_float(tmp_dict, separator='__')
+            for s in flt: orig_acc[s[0]] = s[1]
+        orig_acc['Overall'] = tmp_dict
+        #print(orig_acc)
+        #zz
         print('Overall:', tmp_dict, file=f)
 
         print(file=f)
         print(file=f)
         
         print('Precision:', file=f)
+        orig_prec = {}
         tmp_dict = copy.deepcopy(uf_prec)
         while True:
             tmp_dict = take_average(tmp_dict, f=f)
 
             if isinstance(tmp_dict, float): break
+
+            flt = flatten_float(tmp_dict, separator='__')
+            for s in flt: orig_prec[s[0]] = s[1]
+        orig_prec['Overall'] = tmp_dict
         print('Overall:', tmp_dict, file=f)
 
         print(file=f)
         print(file=f)
         
         print('Recall:', file=f)
+        orig_recall = {}
         tmp_dict = copy.deepcopy(uf_recall)
         while True:
             tmp_dict = take_average(tmp_dict, f=f)
 
             if isinstance(tmp_dict, float): break
+            
+            flt = flatten_float(tmp_dict, separator='__')
+            for s in flt: orig_recall[s[0]] = s[1]
+        orig_recall['Overall'] = tmp_dict
+
         print('Overall:', tmp_dict, file=f)
 
         print(file=f)
         print(file=f)
         
         print('F-1 Score:', file=f)
+        orig_f1 = {}
         tmp_dict = copy.deepcopy(uf_f1)
         while True:
             tmp_dict = take_average(tmp_dict, f=f)
 
             if isinstance(tmp_dict, float): break
+            
+            flt = flatten_float(tmp_dict, separator='__')
+            for s in flt: orig_f1[s[0]] = s[1]
+        orig_f1['Overall'] = tmp_dict
+
         print('Overall:', tmp_dict, file=f)
 
         print(file=f)
@@ -254,6 +296,8 @@ def evaluate(text_model, input_file, output_file, text_trunc_length):
         print('Recall:', recall_comb, file=f)
         print('F1:', f1_comb, file=f)
 
+        return orig_acc, orig_prec, orig_recall, orig_f1, accuracy_comb, precision_comb, recall_comb, f1_comb
+
 
 
 if __name__ == "__main__":
@@ -263,4 +307,20 @@ if __name__ == "__main__":
     parser.add_argument('--output_file', type=str, default='tmp.txt', help='path where output values are saved.')
     parser.add_argument('--text_trunc_length', type=str, default=512, help='tokenizer maximum length')
     args = parser.parse_args()
-    evaluate(args.text_model, args.input_file, args.output_file, args.text_trunc_length)
+    acc, prec, recall, f1, accuracy_comb, precision_comb, recall_comb, f1_comb = evaluate(args.text_model, args.input_file, args.output_file, args.text_trunc_length)
+
+    print(acc, prec, recall, f1)
+    print('Combo:', accuracy_comb, precision_comb, recall_comb, f1_comb)
+
+    
+    rel_props = ['Overall', 'Biomedical', 'Human Interaction and Organoleptics', 'Agriculture and Industry', 'Light and electricity',
+        'Agriculture and Industry__icides', 'Human Interaction and Organoleptics__toxin', 'Light and electricity__lights',
+        'Light and electricity__electros', 'Biomedical__inhibitors', 'Biomedical__antis', 'Biomedical__modulators',
+        'Biomedical__antagonists', 'Biomedical__treatments', 'Biomedical__agonists', 'Biomedical__cancer', 'Biomedical__disease']
+
+
+    print('F-1 Scores:')
+    for key in rel_props:
+        print(key, f1[key])
+
+
