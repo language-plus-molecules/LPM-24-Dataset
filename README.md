@@ -11,7 +11,7 @@ Please see the manuscript for this dataset [here](https://arxiv.org/pdf/2403.007
 
 ## News
 
-* The [official leaderboard](language-plus-molecules.github.io/#leaderboard) is now available!! We will upload the scripts used for the final evaluation and ranking soon.
+* The [official leaderboard](https://language-plus-molecules.github.io/#leaderboard) is now available!! We will upload the scripts used for the final evaluation and ranking soon.
 
 * Submissions can now be uploaded to Codabench! See the competitions at: [Molecule Captioning](https://www.codabench.org/competitions/2914) and [Molecule Generation](https://www.codabench.org/competitions/3014). See instructions on the [website](https://language-plus-molecules.github.io/#submission).
 
