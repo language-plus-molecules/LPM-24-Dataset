@@ -39,7 +39,6 @@ If you found our work useful, please cite:
     pages = "1--9",
 }
 
-}
 
 @inproceedings{edwards-etal-2022-translation,
     title = "Translation between Molecules and Natural Language",
