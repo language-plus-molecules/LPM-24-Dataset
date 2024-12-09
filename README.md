@@ -13,7 +13,7 @@ Please see the manuscript for this dataset [here](https://arxiv.org/pdf/2403.007
 
 * The presentation on results of the shared task is [now released](/shared_task.pdf). 
 * Final evaluation code and shared task submissions have been made available [here](/final_evaluation/). The submissions are being made available to allow the study of ensemble methods. 
- * Details on the mystery molecules used in the shared task are [available](/shared_task.pdf). Our majority voting ensemble for the[mystery molecules](/final_evaluation/captioning/mystery_mols.txt) is available [here](/final_evaluation/captioning/mystery_molecules_ensemble.txt). 
+ * Details on the mystery molecules used in the shared task are [available](/shared_task.pdf). Our majority voting ensemble for the [mystery molecules](/final_evaluation/captioning/mystery_mols.txt) is available [here](/final_evaluation/captioning/mystery_molecules_ensemble.txt). 
 
 * The [official leaderboard](https://language-plus-molecules.github.io/#leaderboard) is now available!! 
 
