@@ -60,6 +60,7 @@ Further, datasets are available in zipped file `data.zip`. Some files that may b
 
 Evaluation code and instructions can be found in [evaluation](/evaluation).
 
+Final evaluation code and instructions for the shared task can be found in [final_evaluation](/final_evaluation).
 
 ------------------------------------
 
