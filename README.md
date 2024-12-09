@@ -11,17 +11,15 @@ Please see the manuscript for this dataset [here](https://arxiv.org/pdf/2403.007
 
 ## News
 
-* Details on the shared task is [now released](/shared_task.pdf)
+* Details on the shared task are [now released](/shared_task.pdf). 
 * Final evaluation code and shared task submissions have been made available [here](/final_evaluation/). The submissions are being made available to allow the study of ensemble methods. 
-* * Details on the mystery molecules used in the shared task are [available](/shared_task.pdf). Our majority voting ensemble for [mystery molecules](/final_evaluation/captioning/mystery_mols.txt) is available [here](/final_evaluation/captioning/mystery_molecules_ensemble.txt). 
+ * Details on the mystery molecules used in the shared task are [available](/shared_task.pdf). Our majority voting ensemble for the[mystery molecules](/final_evaluation/captioning/mystery_mols.txt) is available [here](/final_evaluation/captioning/mystery_molecules_ensemble.txt). 
 
-* The [official leaderboard](https://language-plus-molecules.github.io/#leaderboard) is now available!! We will upload the scripts used for the final evaluation and ranking soon.
+* The [official leaderboard](https://language-plus-molecules.github.io/#leaderboard) is now available!! 
 
-* Submissions can now be uploaded to Codabench! See the competitions at: [Molecule Captioning](https://www.codabench.org/competitions/2914) and [Molecule Generation](https://www.codabench.org/competitions/3014). See instructions on the [website](https://language-plus-molecules.github.io/#submission).
+* Submissions can still be uploaded to Codabench! See the competitions at: [Molecule Captioning](https://www.codabench.org/competitions/2914) and [Molecule Generation](https://www.codabench.org/competitions/3014). See instructions on the [website](https://language-plus-molecules.github.io/#submission).
 
-* Example MolT5-Small submission files are available as "MolT5-Small_cap2smi_submit.zip" and "MolT5-Small_smi2cap_submit.zip". 
-
-* We have updated the code for ``text_property_metrics.py'' to produce more intuitive results for missing properties in the validation set. We will update tables 3 and 4 in the dataset manuscript very soon to address this change.
+  * Example MolT5-Small submission files are available as "MolT5-Small_cap2smi_submit.zip" and "MolT5-Small_smi2cap_submit.zip". 
 
 ## Dataset Download
 

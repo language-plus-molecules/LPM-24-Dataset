@@ -8,14 +8,14 @@ Based on "[Translation between Molecules and Natural Language](https://arxiv.org
 The released [captioning](./captioning/submissions/) and [molecule generation](./molgen/submissions) submissions can be used to study ensemble methods. In particular, the [extracted properties for molecule captioning](./captioning/prop_files.zip) may be useful for this.
 
 ## Installation
-The requirements for the evaluation code conda environment are located in [evaluation README](../evaluation/README.md).
+The requirements for the evaluation code conda environment are located in the [evaluation README](../evaluation/README.md).
 
 ## Input format
-The input format should contain the output of your model with one output on each line. It should follow the order of the online dataset: huggingface.co/datasets/language-plus-molecules . 
+The input format should contain the output of your model with one output on each line. It should follow the order of the online dataset: huggingface.co/datasets/language-plus-molecules. Your input file should be renamed to `submit.txt` and then zipped and put in the submissions subdirectory. 
 
 ## Evaluation Commands
 
-Please see the run.sh files to see how score files are prepared. Then run combine_eval.py to create a combined score. Run print_csv.py to print a leaderboard. 
+Please see the `run.sh` files to see how score files are prepared. Then run `combine_eval.py` to create a combined score. Run `print_csv.py` to print a leaderboard. 
 
 
 ### Citation
