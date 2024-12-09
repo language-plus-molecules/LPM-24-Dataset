@@ -1,0 +1,959 @@
+CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)CO.CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)CO)C.CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C(=O)O.CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C.CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)O)C)C:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	8
+
+	[["Agriculture and Industry__role_relation__nutrient", 8], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bland", 2], ["Biomedical__cancer__Cancer", 2], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__strong", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__antis__anti cancer", 1], ["Light and electricity__lights__photoresist", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Diabetes mellitus", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Parkinson's disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__health_effect_relation__Diabetes mellitus type 2", 1]]:
+
+
+
+CCOC1CCN(C(C1)C2=CC=C(C=C2)C(=O)O)CC3=C(C=C(C4=C3C=CN4)C)OC:
+	properties:	Biomedical__cancer__Cancer	number:	9
+
+	[["Biomedical__cancer__Cancer", 9], ["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__antis__anti cancer", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__depressant__depressant", 1], ["Biomedical__inhibitors__serotonin reuptake inhibitor", 1], ["Biomedical__antis__anti depressant", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__antis__anti psychotic", 1], ["Biomedical__inhibitors__ezh2 inhibitor", 1], ["Biomedical__inhibitors__mdm2 inhibitor", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__akt inhibitor", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCCC(C(=O)NC1=CN(C=N1)C(C)(C)CNCC(C)(C)C)NC2CCC3=C(C2)C(=CC(=C3)F)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__treatments__cancer treatment", 8], ["Biomedical__cancer__Cancer", 8], ["Biomedical__antis__anti viral", 8], ["Biomedical__antis__anti viral agent", 5], ["Biomedical__inhibitors__HIV protease inhibitor", 3], ["Biomedical__inhibitors__protease inhibitor", 3], ["Biomedical__inhibitors__hiv protease inhibitor", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__treatments__hepatitis b treatment", 2], ["Biomedical__health_effect_relation__Hepatitis", 2], ["Biomedical__treatments__hepatitis B treatment", 2], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__inhibitors__pd1/pdl1 inhibitor", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__inhibitors__betasecretase inhibitor", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Biomedical__treatments__alzheimer's disease treatment", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+C1CN(CCC1(C(=O)NC(CCO)C2=CC=C(C=C2)Cl)N)C3=NC=NC4=C3C=CN4:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	12
+
+	[["Agriculture and Industry__role_relation__inhibitor", 12], ["Biomedical__inhibitors__kinase inhibitor", 7], ["Biomedical__cancer__Cancer", 6], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__antis__anti tumor agent", 4], ["Biomedical__antis__anti tumor", 4], ["Biomedical__inhibitors__btk inhibitor", 2], ["Biomedical__inhibitors__protein kinase inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__jak inhibitor", 1], ["Biomedical__inhibitors__Hsp90 inhibitor", 1], ["Biomedical__inhibitors__hsp90 inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__hdac inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__p38 kinase inhibitor", 1]]:
+
+
+
+CC1CNC(=O)C2=C3N=C(C=CN3N=C2)NC(C4=C(O1)C=CC(=C4)F)C:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	15
+
+	[["Agriculture and Industry__role_relation__inhibitor", 15], ["Biomedical__inhibitors__kinase inhibitor", 10], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__cancer__Cancer", 5], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__protein kinase inhibitor", 2], ["Biomedical__modulators__kinase modulator", 2], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__cdk inhibitor", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__inhibitors__pde10 inhibitor", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__bromodomain inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+O=S1(=O)CCN(CN2CCS(=O)(=O)NC2)CN1.CC(=O)NC(C=O)C(O)C(OC1OC(=CC(O)C1O)C(O)=O)C(O)CO:
+	properties:	Biomedical__antis__anti bacterial	number:	10
+
+	[["Biomedical__antis__anti bacterial", 10], ["Biomedical__cancer__Cancer", 3], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__treatments__cancer treatment", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 2], ["Biomedical__antis__anti fungal", 2], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__antis__anti inflammatory", 1], ["Biomedical__antis__anti tumor", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti cancer", 1]]:
+
+
+
+CC1=C(C2=C(O1)C=C(C=C2)OC3=NC=NC4=CC(=C(C=C43)OC)OC)C(=O)NC:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	5
+
+	[["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__antis__anti tumor", 5], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti tumor agent", 4], ["Biomedical__inhibitors__angiogenesis inhibitor", 3], ["Biomedical__treatments__cancer treatment", 3], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Light and electricity__lights__organic light-emitting", 1], ["Light and electricity__lights__organic light-emitting device", 1], ["Light and electricity__lights__light-emitting", 1], ["Light and electricity__lights__light-emitting device", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__antis__anti cancer", 1]]:
+
+
+
+CC1CC2C3CCC4=CC(=O)C=CC4(C3=CCC2(C1(C(=O)CO)O)C)C:
+	properties:	Biomedical__antis__anti inflammatory	number:	10
+
+	[["Biomedical__antis__anti inflammatory", 10], ["Agriculture and Industry__role_relation__inflammatory", 10], ["Agriculture and Industry__role_relation__nutrient", 5], ["Biomedical__cancer__Cancer", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__antis__anti angiogenic", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__antis__anti cancer", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Diabetes mellitus", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Parkinson's disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__health_effect_relation__Diabetes mellitus type 2", 1]]:
+
+
+
+CCCCCCCCCCCCCCCC(=O)NC(CCC(=O)NCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCC(=O)NCCCCC(C(=O)O)NC(=O)C(C1CCCCC1)NC(=O)C2CCCN2C(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC4=CNC5=C4C=CC=N5)NC(=O)C(CC6=CC=C(C=C6)O)NC(=O)C(C(C)(C)C)NC(=O)C(CC(=O)O)N(C)C(=O)C7CC(=O)NCCCCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N7)CC8=CC=CC=C8)CCCNC(=N)N)CCC(=O)O)C(C)C)NC(=O)C)C(=O)O:
+	properties:	Biomedical__treatments__cancer treatment	number:	6
+
+	[["Biomedical__treatments__cancer treatment", 6], ["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti body", 6], ["Biomedical__antis__anti bodydrug conjugate", 4], ["Agriculture and Industry__role_relation__nutrient", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 3], ["Biomedical__antis__anti fungal", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__antis__anti body drug conjugate", 2], ["Biomedical__drug__Drug", 2], ["Biomedical__inhibitors__egfr inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__antis__anti bacterial", 1]]:
+
+
+
+C1CCC(C1)C2=C(C=C(C=C2)COC3=CC4=C(C=C3)NC5=C4CCC5CC(=O)O)C(F)(F)F:
+	properties:	Biomedical__antis__anti inflammatory	number:	8
+
+	[["Biomedical__antis__anti inflammatory", 8], ["Agriculture and Industry__role_relation__inflammatory", 8], ["Biomedical__antis__anti viral", 4], ["Biomedical__cancer__Cancer", 3], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__antis__anti cancer", 2], ["Biomedical__agonists__gpr40 agonist", 2], ["Agriculture and Industry__role_relation__agonist", 2], ["Biomedical__antis__anti diabetic", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__rna polymerase inhibitor", 1], ["Light and electricity__lights__photochromic", 1], ["Light and electricity__lights__photopolymerization", 1], ["Biomedical__antis__anti pyretic", 1], ["Biomedical__modulators__glucocorticoid receptor modulator", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Agriculture and Industry__icides__insecticide", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__inhibitors__hiv inhibitor", 1], ["Biomedical__antis__anti viral agent", 1]]:
+
+
+
+CC1(CC(=O)N(C(=O)C1)CCCCN2CCN(CC2)C3=NC=CC=N3)C:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	6
+
+	[["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__antis__anti proliferative", 5], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antis__anti psychotic", 2], ["Biomedical__inhibitors__protease inhibitor", 2], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Agriculture and Industry__role_relation__analgesic", 1], ["Biomedical__agonists__mu-opioid receptor agonist", 1], ["Agriculture and Industry__role_relation__opioid analgesic", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__agonists__opioid receptor agonist", 1], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Biomedical__antis__anti arrhythmic", 1], ["Biomedical__modulators__nmda receptor modulator", 1], ["Biomedical__inhibitors__cysteine protease inhibitor", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__inhibitors__fasn inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__antis__anti angiogenic", 1], ["Biomedical__depressant__depressant", 1], ["Biomedical__antis__anti depressant", 1]]:
+
+
+
+C1COCCN1C2=CC=C(C=C2)NC3=NC=CC(=N3)C4=CC=C(C=C4)C(=O)NCC#N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	15
+
+	[["Agriculture and Industry__role_relation__inhibitor", 15], ["Biomedical__inhibitors__kinase inhibitor", 10], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__inhibitors__protein kinase inhibitor", 2], ["Biomedical__inhibitors__fgfr inhibitor", 2], ["Biomedical__inhibitors__cysteine protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__inhibitors__pim kinase inhibitor", 1], ["Biomedical__inhibitors__jak inhibitor", 1], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti viral compound", 1], ["Light and electricity__lights__fluorescent dye", 1], ["Light and electricity__lights__fluorescent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC2C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2C1)CCCCN)CCCCN)CCCNC(=O)N)CC3=CC=C(C=C3)O)NC(=O)C(CC4=CC5=CC=CC=C5C=C4)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C6=CC=C(C=C6)F)C(=O)NC(CCCNC(=N)N)C(=O)N)CCCNC(=O)N)CCCNC(=N)N)CC7=CC=C(C=C7)O:
+	properties:	Biomedical__antis__anti biotic	number:	8
+
+	[["Biomedical__antis__anti biotic", 8], ["Biomedical__antis__anti bacterial", 6], ["Biomedical__cancer__Cancer", 5], ["Biomedical__treatments__cancer treatment", 4], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__antis__anti body", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__antis__anti viral agent", 1]]:
+
+
+
+CC1(CCC(C2=C1C=C(C(=C2)C=CC3=CC=C(C=C3)C(=O)O)CN4C=CC=N4)(C)C)C:
+	properties:	Light and electricity__lights__fluorescent	number:	4
+
+	[["Light and electricity__lights__fluorescent", 4], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antis__anti body", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__inhibitors__matrix metalloproteinase inhibitor", 1], ["Biomedical__inhibitors__metalloproteinase inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__ns5a inhibitor", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Light and electricity__lights__organic light-emitting", 1], ["Light and electricity__lights__organic light-emitting device", 1], ["Light and electricity__lights__light-emitting", 1], ["Light and electricity__lights__light-emitting device", 1], ["Light and electricity__lights__organic electroluminescence", 1], ["Light and electricity__lights__organic electroluminescent device", 1], ["Light and electricity__lights__electroluminescent device", 1], ["Light and electricity__lights__organic electroluminescent", 1], ["Light and electricity__lights__electroluminescent", 1], ["Light and electricity__lights__fluorescent dye", 1], ["Biomedical__antis__anti inflammatory", 1], ["Biomedical__antis__anti oxidant", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti viral agent", 1]]:
+
+
+
+CC1(CCC2C(C1)CCC3C2CCC4(C3CCC4C(=O)CN5C=C(C=N5)C#N)C)O:
+	properties:	Biomedical__cancer__Cancer	number:	7
+
+	[["Biomedical__cancer__Cancer", 7], ["Biomedical__health_effect_relation__Depression", 4], ["Biomedical__treatments__depression treatment", 4], ["Biomedical__antis__anti cancer", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__antis__anti viral", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__modulators__nmda receptor modulator", 1], ["Biomedical__treatments__hepatitis b treatment", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__treatments__hepatitis B treatment", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__mdm2 antagonist", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__treatments__treatment of disorder", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__health_effect_relation__Malaria", 1], ["Biomedical__antis__anti malarial", 1]]:
+
+
+
+CC1=C(SC(=C1)C2=NOC(C2)(C3=CC(=C(C(=C3)Cl)Cl)Cl)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F:
+	properties:	Biomedical__antis__anti viral	number:	6
+
+	[["Biomedical__antis__anti viral", 6], ["Biomedical__antis__anti inflammatory", 4], ["Agriculture and Industry__role_relation__inflammatory", 4], ["Biomedical__antis__anti bacterial", 4], ["Biomedical__antis__anti parasitic", 3], ["Biomedical__cancer__Cancer", 3], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__antis__anti cancer", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antagonists__ccr5 antagonist", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antis__anti protozoal", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Biomedical__antis__anti viral agent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)(C)C1=CC(=NO1)NC(=O)NC2=CC=C(C=C2)C3=CN4C5=C(C=C(C=C5)OCCN6CCOCC6)SC4=N3:
+	properties:	Biomedical__antis__anti viral	number:	8
+
+	[["Biomedical__antis__anti viral", 8], ["Agriculture and Industry__role_relation__inhibitor", 8], ["Biomedical__cancer__Cancer", 6], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti cancer", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti apoptotic", 1], ["Agriculture and Industry__role_relation__apoptotic", 1], ["Biomedical__inhibitors__mcl1 inhibitor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CC1CCC(CN1C(=O)C=C)NC2=NC=NC3=C2C=CN3:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	14
+
+	[["Agriculture and Industry__role_relation__inhibitor", 14], ["Biomedical__inhibitors__jak inhibitor", 4], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__inhibitors__btk inhibitor", 2], ["Biomedical__modulators__nmda receptor modulator", 1], ["Biomedical__inhibitors__jak3 inhibitor", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__ccr2 antagonist", 1], ["Biomedical__treatments__inflammatory disease treatment", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__inhibitors__lrrk2 inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__inhibitors__pde10 inhibitor", 1]]:
+
+
+
+CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)C3C(C(C(C(O3)SC)O)O)O)Cl:
+	properties:	Biomedical__antis__anti tumor agent	number:	5
+
+	[["Biomedical__antis__anti tumor agent", 5], ["Biomedical__antis__anti tumor", 5], ["Agriculture and Industry__role_relation__nutrient", 4], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__inhibitors__sglt2 inhibitor", 2], ["Biomedical__treatments__diabetes treatment", 2], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__treatments__obesity treatment", 1], ["Biomedical__inhibitors__gcn2 inhibitor", 1], ["Biomedical__treatments__treatment of disorder", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__antis__anti asthmatic", 1], ["Biomedical__antis__anti septic", 1], ["Light and electricity__lights__photopolymerization", 1]]:
+
+
+
+CC(C)(C)[Si](C1=CC=C(C=C1)C(=O)NCC(C(=O)NC(CCCCNC(=O)CCC(=O)NCCCC(C(=O)O)NC(=O)CCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O)NC(=O)CCC(C(=O)O)N2CCN(CCN(CCN(CC2)CC(=O)O)CC(=O)O)CC(=O)O)(C(C)(C)C)F:
+	properties:	Biomedical__antis__anti tumor	number:	8
+
+	[["Biomedical__antis__anti tumor", 8], ["Biomedical__cancer__Cancer", 5], ["Biomedical__antis__anti biotic", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti body", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti cancer", 2], ["Biomedical__antis__anti bacterial", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1]]:
+
+
+
+CC1(C2C1C(N(C2)C(=O)C(C(C)(C)C)NC(=O)C(F)(F)F)C(=O)NC(CC3CCNC3=O)C#N)C.CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	6
+
+	[["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__antis__anti viral", 5], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__cancer__Cancer", 5], ["Biomedical__inhibitors__protease inhibitor", 4], ["Biomedical__antis__anti bacterial", 4], ["Biomedical__treatments__hepatitis c treatment", 2], ["Biomedical__health_effect_relation__Hepatitis", 2], ["Biomedical__inhibitors__HIV protease inhibitor", 1], ["Biomedical__inhibitors__hiv protease inhibitor", 1], ["Biomedical__inhibitors__betasecretase inhibitor", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__treatments__alzheimer's disease treatment", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)C.CC1=CC2CN(C1C(=O)N)C(=O)N2OS(=O)(=O)O:
+	properties:	Biomedical__antis__anti bacterial	number:	15
+
+	[["Biomedical__antis__anti bacterial", 15], ["Agriculture and Industry__role_relation__inhibitor", 7], ["Biomedical__inhibitors__beta-lactamase inhibitor", 6], ["Biomedical__antis__anti bacterial agent", 2], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCCCCCCCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F:
+	properties:	Light and electricity__electros__dielectric	number:	7
+
+	[["Light and electricity__electros__dielectric", 7], ["Light and electricity__lights__liquid crystal", 6], ["Light and electricity__electros__electrolyte", 3], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Light and electricity__lights__liquid crystal display", 1], ["Light and electricity__lights__liquid crystal display device", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__signalling molecule", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	8
+
+	[["Agriculture and Industry__role_relation__inhibitor", 8], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 4], ["Biomedical__antis__anti fungal", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__cancer__Cancer", 3], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__treatments__pain treatment", 2], ["Biomedical__health_effect_relation__Pain", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__modulators__positive allosteric modulator", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__inhibitors__btk inhibitor", 1], ["Biomedical__treatments__autoimmune treatment", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__inhibitors__glyt1 inhibitor", 1]]:
+
+
+
+CCC(=O)N1CCC(C1)NC2=NC=NC3=C2CN(CC3)C4=CC(=C(N=C4)OC)C(F)(F)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	17
+
+	[["Agriculture and Industry__role_relation__inhibitor", 17], ["Biomedical__inhibitors__kinase inhibitor", 12], ["Biomedical__treatments__cancer treatment", 9], ["Biomedical__cancer__Cancer", 9], ["Biomedical__inhibitors__pim kinase inhibitor", 4], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__phosphodiesterase inhibitor", 1], ["Biomedical__inhibitors__pi3k inhibitor", 1], ["Biomedical__inhibitors__cdk inhibitor", 1], ["Biomedical__inhibitors__cyclindependent kinase inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__inhibitors__irak inhibitor", 1], ["Biomedical__inhibitors__betasecretase inhibitor", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Biomedical__treatments__alzheimer's disease treatment", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__inhibitors__rsv inhibitor", 1]]:
+
+
+
+CCCCCOC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC=C(C=C7)O)O)O)C(C)O)C)O)OCC[N+](C)(C)C)O:
+	properties:	Biomedical__antis__anti bacterial	number:	7
+
+	[["Biomedical__antis__anti bacterial", 7], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 3], ["Biomedical__antis__anti fungal", 3], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__antis__anti body", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__paf antagonist", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__antis__anti cancer", 1]]:
+
+
+
+CC1(CCCN1C(=O)CN)C(=O)NC(CCC(=O)O)C(=O)O:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	4
+
+	[["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__antis__anti tumor", 4], ["Biomedical__antis__anti bacterial", 4], ["Biomedical__antis__anti biotic", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__ace inhibitor", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__health_effect_relation__Pain", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__antis__anti tumor agent", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1]]:
+
+
+
+CC1=CC(=CC2=C1NN=C2)CC(C(=O)N3CCN(CC3)C4CCN(CC4)C)NC(=O)N5CCC(CC5)C6=CC7=CC=CC=C7NC6=O:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__treatments__cancer treatment", 7], ["Biomedical__cancer__Cancer", 7], ["Biomedical__inhibitors__ra inhibitor", 5], ["Biomedical__antagonists__cgrpantagonists", 3], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__inhibitors__p38 kinase inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__tachykinin antagonist", 1], ["Biomedical__antis__anti body", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__treatments__cardiovascular treatment", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__agonists__apj agonist", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CC1(CCC2(CCC3(C(C2C1)C(=O)C=C4C3(CCC5C4(C=C(C(=O)C5(C)C)C#N)C)C)C)NC(=O)C(C)(F)F)C:
+	properties:	Biomedical__cancer__Cancer	number:	8
+
+	[["Biomedical__cancer__Cancer", 8], ["Biomedical__antis__anti cancer", 6], ["Agriculture and Industry__role_relation__inflammatory", 4], ["Biomedical__antis__anti inflammatory", 3], ["Biomedical__antis__anti oxidant", 3], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__antis__anti viral", 3], ["Light and electricity__lights__fluorescent", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Light and electricity__lights__photoresist", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__modulators__nmda receptor modulator", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Light and electricity__lights__fluorescent dye", 1]]:
+
+
+
+CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC(=C(C=C3)C4=CC=CC=C4S(=O)(=O)NC5=NOC(=C5C)C)COCC:
+	properties:	Biomedical__antis__anti viral	number:	6
+
+	[["Biomedical__antis__anti viral", 6], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__health_effect_relation__Hypertension", 3], ["Agriculture and Industry__role_relation__antagonist", 3], ["Biomedical__treatments__hypertension treatment", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antagonists__angiotensin ii antagonist", 2], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__antis__anti cancer", 2], ["Biomedical__inhibitors__neprilysin inhibitor", 1], ["Biomedical__modulators__glucocorticoid receptor modulator", 1], ["Biomedical__inhibitors__factor xa inhibitor", 1], ["Biomedical__antis__anti coagulant", 1], ["Agriculture and Industry__role_relation__coagulant", 1], ["Biomedical__treatments__migraine treatment", 1], ["Biomedical__health_effect_relation__Migraine", 1], ["Biomedical__antis__anti psychotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antagonists__adenosine receptor antagonist", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti infective", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CCC(CC1)N2C(=O)C(C(=O)N(C2=O)C3CCCCC3)C(=O)NCC(=O)O:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	8
+
+	[["Agriculture and Industry__role_relation__inhibitor", 8], ["Biomedical__antis__anti bacterial", 6], ["Biomedical__inhibitors__protease inhibitor", 4], ["Biomedical__treatments__hepatitis c treatment", 2], ["Biomedical__inhibitors__hcv protease inhibitor", 2], ["Biomedical__health_effect_relation__Hepatitis", 2], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__antis__anti tumor", 1], ["Light and electricity__lights__photoinitiators", 1], ["Light and electricity__lights__photosensitive", 1], ["Biomedical__inhibitors__caspase inhibitor", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__vasopressin antagonist", 1], ["Biomedical__inhibitors__serine protease inhibitor", 1], ["Biomedical__inhibitors__thrombin inhibitor", 1], ["Biomedical__antis__anti coagulant", 1], ["Agriculture and Industry__role_relation__coagulant", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti oxidant", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)C3CCC4=C(C3)C=CC(=C4)O:
+	properties:	Biomedical__treatments__cancer treatment	number:	6
+
+	[["Biomedical__treatments__cancer treatment", 6], ["Biomedical__cancer__Cancer", 6], ["Light and electricity__lights__fluorescent", 4], ["Agriculture and Industry__role_relation__antagonist", 2], ["Biomedical__antagonists__muscarinic antagonist", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti obesity", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__modulators__chemokine receptor modulator", 1], ["Biomedical__antis__anti viral", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti infective", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Light and electricity__lights__organic electroluminescent device", 1], ["Light and electricity__lights__electroluminescent device", 1], ["Light and electricity__lights__organic electroluminescent", 1], ["Light and electricity__lights__electroluminescent", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__treatments__cardiovascular treatment", 1]]:
+
+
+
+CC(C(F)(F)F)N1C(=C(C(=N1)C2=CC=C(C=C2)CNC(=O)C3=C(C=CC(=C3)F)OC)C(=O)N)N:
+	properties:	Biomedical__cancer__Cancer	number:	8
+
+	[["Biomedical__cancer__Cancer", 8], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__antis__anti cancer", 5], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__antis__anti biotic", 2], ["Biomedical__antis__anti microbial", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__jak inhibitor", 1], ["Biomedical__inhibitors__syk inhibitor", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__inhibitors__mdm2 inhibitor", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__cancer__Kidney cancer", 1]]:
+
+
+
+C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)C4C(C(C(C(O4)CO)O)O)O)Cl:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	5
+
+	[["Agriculture and Industry__role_relation__nutrient", 5], ["Biomedical__antis__anti tumor", 4], ["Biomedical__cancer__Cancer", 4], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__inhibitors__sglt2 inhibitor", 3], ["Biomedical__antis__anti cancer", 3], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__antis__anti inflammatory", 1], ["Light and electricity__lights__organic light-emitting", 1], ["Light and electricity__lights__organic light-emitting device", 1], ["Light and electricity__lights__light-emitting", 1], ["Light and electricity__lights__light-emitting device", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti tumour", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__treatments__cancer treatment", 1], ["Light and electricity__lights__photopolymerization", 1]]:
+
+
+
+CCN(CC)CC1=CC2=C(C=C1)C=C(C=C2)COC(=O)NC3=CC=C(C=C3)C(=O)NO:
+	properties:	Biomedical__antis__anti bacterial	number:	8
+
+	[["Biomedical__antis__anti bacterial", 8], ["Agriculture and Industry__role_relation__inhibitor", 7], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__cancer__Cancer", 5], ["Biomedical__inhibitors__histone deacetylase inhibitor", 3], ["Biomedical__inhibitors__hdac inhibitor", 2], ["Biomedical__antis__anti microbial", 2], ["Biomedical__antis__anti viral", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1=CC(=CC=C1C2=C(N=CN=C2OCCOC3=NC=C(C=N3)Br)NS(=O)(=O)N)Br:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	8
+
+	[["Agriculture and Industry__role_relation__inhibitor", 8], ["Biomedical__cancer__Cancer", 5], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti viral", 3], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__antis__anti biotic", 1], ["Biomedical__inhibitors__btk inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__inhibitors__bace inhibitor", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__antagonists__adenosine receptor antagonist", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__protein tyrosine kinase inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)C1=CC(=NNC1=O)OC2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C(=N3)C#N)Cl:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	6
+
+	[["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__antis__anti bacterial", 5], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti microbial", 2], ["Biomedical__inhibitors__protein kinase inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti allergic", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__inhibitors__pi3 kinase inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti thrombotic", 1], ["Agriculture and Industry__role_relation__Thrombotic", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1]]:
+
+
+
+C[N+]1(CCCC1)CC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-]:
+	properties:	Biomedical__antis__anti bacterial	number:	9
+
+	[["Biomedical__antis__anti bacterial", 9], ["Biomedical__antis__anti microbial", 4], ["Biomedical__antis__anti biotic", 3], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti ulcer", 1], ["Biomedical__treatments__asthma treatment", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+[129Xe]:
+	properties:	Human Interaction and Organoleptics__organoleptic_effect_relations__odorless	number:	13
+
+	[["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 13], ["Human Interaction and Organoleptics__toxin__toxic", 7], ["Agriculture and Industry__role_relation__nutrient", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sweet", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__weak", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__ether", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__cooling", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__spicy", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__pungent", 1]]:
+
+
+
+CC(C)(C#CC1=NC(=C(C=C1)C2=C3C(=C(C=C2)Cl)C(=NN3CC(F)(F)F)NS(=O)(=O)C)C(CC4=CC(=CC(=C4)F)F)NC(=O)CN5C6=C(C7CC7C6(F)F)C(=N5)C(F)(F)F)S(=O)(=O)C:
+	properties:	Biomedical__antis__anti viral	number:	10
+
+	[["Biomedical__antis__anti viral", 10], ["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__antis__anti viral agent", 4], ["Biomedical__antis__anti retroviral", 3], ["Biomedical__treatments__hiv treatment", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__antis__anti viral compound", 2], ["Light and electricity__electros__electrolyte", 2], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__inhibitors__mdm2 inhibitor", 1], ["Light and electricity__lights__fluorescent dye", 1], ["Light and electricity__lights__fluorescent", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1], ["Biomedical__inhibitors__hiv inhibitor", 1], ["Biomedical__treatments__AIDs treatment", 1], ["Biomedical__health_effect_relation__Aids", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__nutrient", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CN1CCCC1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN(C(C6)CC#N)C(=O)C(=C)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	18
+
+	[["Agriculture and Industry__role_relation__inhibitor", 18], ["Biomedical__treatments__cancer treatment", 9], ["Biomedical__cancer__Cancer", 9], ["Biomedical__inhibitors__kras g12c inhibitor", 7], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__inhibitors__kras inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__fgfr4 inhibitor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__inhibitors__nitric oxide synthase inhibitor", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__pi3 kinase inhibitor", 1], ["Biomedical__inhibitors__mtor inhibitor", 1], ["Biomedical__inhibitors__pi3k inhibitor", 1], ["Biomedical__inhibitors__mTOR inhibitor", 1]]:
+
+
+
+CC(C1=CC2=C(C=CC(=C2)Cl)NC1=O)NC3=CC=C(N(C3=O)C)C#N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	11
+
+	[["Agriculture and Industry__role_relation__inhibitor", 11], ["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti cancer", 5], ["Biomedical__antis__anti cancer agent", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__inhibitors__tyk2 inhibitor", 2], ["Biomedical__inhibitors__bromodomain inhibitor", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__mek inhibitor", 1], ["Biomedical__inhibitors__cdk inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__inhibitors__hiv inhibitor", 1], ["Biomedical__treatments__AIDs treatment", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__health_effect_relation__Aids", 1], ["Biomedical__inhibitors__nitric oxide synthase inhibitor", 1], ["Biomedical__inhibitors__no inhibitor", 1], ["Light and electricity__lights__organic light-emitting", 1], ["Light and electricity__lights__organic light-emitting device", 1], ["Light and electricity__lights__light-emitting", 1], ["Light and electricity__lights__light-emitting device", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__treatments__anemia treatment", 1], ["Biomedical__health_effect_relation__Anemia", 1], ["Biomedical__inhibitors__prolyl hydroxylase inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+COC1=CC(=CC(=C1)C#CC2=NN(C3=NC=NC(=C23)N)C4CCN(C4)C(=O)C=C)OC:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	16
+
+	[["Agriculture and Industry__role_relation__inhibitor", 16], ["Biomedical__inhibitors__kinase inhibitor", 9], ["Biomedical__cancer__Cancer", 7], ["Biomedical__treatments__cancer treatment", 6], ["Biomedical__antis__anti viral", 5], ["Biomedical__inhibitors__hcv inhibitor", 4], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 2], ["Biomedical__inhibitors__fgfr inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__inhibitors__pdk1 inhibitor", 1], ["Biomedical__inhibitors__dgat inhibitor", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1]]:
+
+
+
+C1=CC=C(C=C1)CCCC(=O)[O-].[Na+].CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C:
+	properties:	Biomedical__antis__anti bacterial	number:	4
+
+	[["Biomedical__antis__anti bacterial", 4], ["Biomedical__antis__anti microbial", 4], ["Biomedical__antis__anti tussive", 4], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antis__anti cancer", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Light and electricity__lights__chemiluminescent", 1], ["Light and electricity__lights__fluorescent", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__agonists__beta2 agonist", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__antagonists__muscarinic antagonist", 1], ["Biomedical__blocker__sodium channel blocker", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__health_effect_relation__Pain", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Agriculture and Industry__role_relation__neoplastic", 1], ["Biomedical__antis__anti neoplastic", 1]]:
+
+
+
+CC(C)OC(=O)CNC1=CC=CC(=N1)CN(CC2=CC=C(C=C2)N3C=CC=N3)S(=O)(=O)C4=CN=CC=C4:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__antis__anti biotic", 4], ["Biomedical__antis__anti microbial", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__treatments__glaucoma treatment", 2], ["Biomedical__antis__anti cancer", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__modulators__chemokine receptor modulator", 1], ["Biomedical__antagonists__npy y5 antagonist", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antis__anti obesity", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__inhibitors__histone deacetylase inhibitor", 1], ["Biomedical__inhibitors__HIV protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__hiv protease inhibitor", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__ns5a inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__inhibitors__platelet aggregation inhibitor", 1]]:
+
+
+
+C1CN(CC2=NC(=CC=C2)CN(CCN1C(CCC(=O)NCC(CO)O)C(=O)[O-])C(CCC(=O)NCC(CO)O)C(=O)[O-])C(CCC(=O)NCC(CO)O)C(=O)[O-].[Gd+3]:
+	properties:	Biomedical__cancer__Cancer	number:	3
+
+	[["Biomedical__cancer__Cancer", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 3], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__antis__anti cancer", 2], ["Light and electricity__lights__fluorescent", 2], ["Biomedical__antis__anti tumor", 2], ["Human Interaction and Organoleptics__toxin__toxic", 2], ["Biomedical__antis__anti cancer agent", 1], ["Agriculture and Industry__role_relation__Contrast media", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__antis__anti infective", 1], ["Biomedical__antis__anti infective agent", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)CNC(=O)CN)C(=O)NC(CCCCN)C(=O)NCC(=O)N:
+	properties:	Biomedical__antis__anti bacterial	number:	8
+
+	[["Biomedical__antis__anti bacterial", 8], ["Biomedical__antis__anti biotic", 7], ["Agriculture and Industry__role_relation__nutrient", 3], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__antis__anti viral", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti body drug conjugate", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__drug__Drug", 1], ["Biomedical__antis__anti microbial", 1], ["Agriculture and Industry__role_relation__Food and nutrition", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__treatments__cancer treatment", 9], ["Biomedical__cancer__Cancer", 9], ["Biomedical__inhibitors__tyk2 inhibitor", 4], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__inhibitors__pde4 inhibitor", 2], ["Biomedical__treatments__autoimmune treatment", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__treatments__treatment of tyk2mediated disorder", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__ns5a inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)C1=C(C=C(C=C1O)C=CC2=CC=CC=C2)O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	7
+
+	[["Agriculture and Industry__role_relation__nutrient", 7], ["Biomedical__antis__anti oxidant", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__cancer__Cancer", 3], ["Light and electricity__lights__photopolymerization", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Light and electricity__lights__photoinitiators", 2], ["Biomedical__inhibitors__Hsp90 inhibitor", 1], ["Biomedical__inhibitors__hsp90 inhibitor", 1], ["Light and electricity__lights__photochromic", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Light and electricity__electros__dielectric", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CCC(C)C(C(=O)NC(C)C(=O)NC(CCC(=O)N)C(=O)NC(CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CCC(C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O)C(=O)NC(C)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(C(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)NC(CC(C)C)C(=O)NC(C(C)CC)C(=O)NC(C)C(=O)NCC(=O)NCC(=O)N4CCCC4C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N5CCCC5C(=O)N6CCCC6C(=O)N7CCCC7C(=O)NC(CO)C(=O)N)NC(=O)C(CCCCN)NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(C)(C)NC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(CC8=CC=C(C=C8)O)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC9=CC=CC=C9)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(C)(C)NC(=O)C(CC1=CC=C(C=C1)O)N:
+	properties:	Biomedical__treatments__cancer treatment	number:	5
+
+	[["Biomedical__treatments__cancer treatment", 5], ["Biomedical__cancer__Cancer", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruity", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fragrant", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sweet", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 5], ["Agriculture and Industry__role_relation__bitter", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruit", 5], ["Biomedical__health_effect_relation__Obesity", 2], ["Biomedical__treatments__obesity treatment", 2], ["Biomedical__antis__anti body", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__antis__anti bacterial", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__inhibitors__pd1/pdl1 inhibitor", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__antis__anti tumor", 1]]:
+
+
+
+CNCC1=CN(C(=C1)C1=CC=CC=C1F)S(=O)(=O)C1=CC=CN=C1:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	8
+
+	[["Agriculture and Industry__role_relation__inhibitor", 8], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti ulcer", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__inhibitors__magl inhibitor", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__protein tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti microbial", 1], ["Light and electricity__electros__electrolyte", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)N1C(=O)C=C(NC1=O)NC(C)C2=CC=CC=C2:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	6
+
+	[["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__antis__anti viral", 4], ["Biomedical__antis__anti tumor agent", 3], ["Biomedical__antis__anti tumor", 3], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__pde2 inhibitor", 1], ["Biomedical__antis__anti arrhythmic", 1], ["Biomedical__modulators__potassium channel modulator", 1], ["Agriculture and Industry__role_relation__convulsant", 1], ["Biomedical__antis__anti convulsant", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Biomedical__cancer__Lung cancer", 1]]:
+
+
+
+C1=CC(=CC=C1C2=CN=C(C=C2)C(C(CN3C=NN=N3)(C4=C(C=C(C=C4)F)F)O)(F)F)OCC(F)(F)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__cancer__Cancer", 6], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__health_effect_relation__Atherosclerosis", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 2], ["Biomedical__antis__anti fungal", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__cetp inhibitor", 1], ["Biomedical__treatments__atherosclerosis treatment", 1], ["Biomedical__treatments__dyslipidemia treatment", 1], ["Biomedical__inhibitors__CETP inhibitor", 1], ["Biomedical__inhibitors__raf kinase inhibitor", 1], ["Biomedical__inhibitors__Hsp90 inhibitor", 1], ["Biomedical__inhibitors__hsp90 inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__modulators__estrogen receptor modulator", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Biomedical__inhibitors__hiv inhibitor", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+C1CC(CCC1CNC(=O)CN2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)NC(CC3=CC4=CC=CC=C4C=C3)C(=O)NCCCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O.[Lu+3]:
+	properties:	Biomedical__cancer__Cancer	number:	6
+
+	[["Biomedical__cancer__Cancer", 6], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__antis__anti body", 5], ["Biomedical__antis__anti body drug conjugate", 4], ["Biomedical__drug__Drug", 4], ["Biomedical__antis__anti bacterial", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__inhibitors__metalloprotease inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti cancer", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)(C)O)C)C:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	7
+
+	[["Agriculture and Industry__role_relation__nutrient", 7], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 4], ["Light and electricity__lights__photosensitive", 4], ["Light and electricity__electros__negative dielectric anisotropy", 2], ["Light and electricity__electros__dielectric", 2], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__nmda antagonist", 1], ["Light and electricity__lights__liquid crystal", 1], ["Light and electricity__lights__liquid crystal composition", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__signalling molecule", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1]]:
+
+
+
+C1CCN(C1)CCOC2=C3COCC=CCOCC4=CC(=CC=C4)C5=NC(=NC=C5)NC(=C3)C=C2:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__inhibitors__kinase inhibitor", 7], ["Biomedical__treatments__cancer treatment", 7], ["Biomedical__cancer__Cancer", 7], ["Biomedical__antis__anti viral", 4], ["Biomedical__antis__anti body", 3], ["Biomedical__inhibitors__protein kinase inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__inhibitors__pim kinase inhibitor", 1], ["Light and electricity__lights__fluorescent", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__treatments__obesity treatment", 1], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC1CN2CCN(CC2)C(=O)C3=CC=C(C=C3)NS(=O)(=O)C4=CC=CC5=C4N=CC=C5:
+	properties:	Biomedical__cancer__Cancer	number:	6
+
+	[["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti bacterial", 4], ["Biomedical__antis__anti microbial", 4], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti cancer", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__antis__anti cancer agent", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__modulators__modulate", 1], ["Biomedical__health_effect_relation__Arthritis", 1], ["Biomedical__treatments__autoimmune disease treatment", 1], ["Biomedical__modulators__chemokine receptor modulator", 1], ["Biomedical__treatments__rheumatoid arthritis treatment", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__phenolic", 1], ["Agriculture and Industry__role_relation__Pharmaceutical", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	15
+
+	[["Agriculture and Industry__role_relation__inhibitor", 15], ["Biomedical__cancer__Cancer", 5], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__inhibitors__jak inhibitor", 3], ["Biomedical__inhibitors__lrrk2 inhibitor", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti viral", 2], ["Biomedical__health_effect_relation__Pancreatitis", 2], ["Biomedical__health_effect_relation__Metabolic syndrome", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 2], ["Agriculture and Industry__role_relation__cardiovascular", 2], ["Biomedical__disease__Cardiovascular disease", 2], ["Biomedical__treatments__Thyroxine treatment", 2], ["Agriculture and Industry__role_relation__Fat storage", 2], ["Biomedical__health_effect_relation__Atherosclerosis", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__inhibitors__egfr inhibitor", 1], ["Biomedical__inhibitors__HIV protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__hiv protease inhibitor", 1], ["Biomedical__inhibitors__hiv integrase inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__treatments__parkinson's treatment", 1], ["Biomedical__inhibitors__bromodomain inhibitor", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti tumor", 1]]:
+
+
+
+CC1=C(C=CC2=C1N=C(N2)C3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	6
+
+	[["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__antagonists__orexin receptor antagonist", 3], ["Agriculture and Industry__role_relation__antagonist", 3], ["Biomedical__antis__anti biotic", 3], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__beta-lactamase inhibitor", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti diabetic", 1], ["Biomedical__antis__anti inflammatory", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__antis__anti infective", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__pi3 kinase inhibitor", 1]]:
+
+
+
+CC(=O)NC1C(C(C(OC1OCCCCC(=O)NCCCNC(=O)CCOCC(COCCC(=O)NCCCNC(=O)CCCCOC2C(C(C(C(O2)CO)O)O)NC(=O)C)(COCCC(=O)NCCCNC(=O)CCCCOC3C(C(C(C(O3)CO)O)O)NC(=O)C)NC(=O)CCCCCCCCCCC(=O)N4CC(CC4COP(=O)(O)O)O)CO)O)O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	8
+
+	[["Agriculture and Industry__role_relation__nutrient", 8], ["Biomedical__cancer__Cancer", 6], ["Biomedical__treatments__cancer treatment", 5], ["Agriculture and Industry__role_relation__Energy storage", 4], ["Agriculture and Industry__role_relation__surfactant", 4], ["Agriculture and Industry__role_relation__Emulsifier", 4], ["Agriculture and Industry__role_relation__Membrane stabilizer", 4], ["Agriculture and Industry__role_relation__Energy source", 4], ["Biomedical__antis__anti body", 4], ["Biomedical__antis__anti tumor", 3], ["Agriculture and Industry__role_relation__immunomodulator", 1], ["Biomedical__immunomodulator", 1], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__cancer__Ovarian cancer", 1]]:
+
+
+
+CC1(C2=C(C=CC(=C2)S(=O)(=O)[O-])[N+](=C1C=CC3=C(C(=CC=C4C(C5=C(N4CCCCS(=O)(=O)O)C=CC(=C5)S(=O)(=O)O)(C)C)CCC3)OC6=CC=C(C=C6)CC(C(=O)O)NC(=O)C7=CC=C(C=C7)NCC8=CN=C9C(=N8)C(=O)NC(=N9)N)CCCCS(=O)(=O)O)C:
+	properties:	Light and electricity__lights__fluorescent	number:	12
+
+	[["Light and electricity__lights__fluorescent", 12], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__antis__anti bacterial", 2], ["Light and electricity__lights__fluorescent dye", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti biotic", 1], ["Biomedical__health_effect_relation__Diabetes mellitus type 1", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__health_effect_relation__Diabetes mellitus", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__health_effect_relation__Insulin resistance", 1], ["Biomedical__disease__Pick's disease", 1], ["Biomedical__health_effect_relation__Diabetes mellitus type 2", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1]]:
+
+
+
+CC(C)NC1=NC2=CC(=C(C=C2N1C3C(C(C(O3)CO)O)O)Cl)Cl:
+	properties:	Biomedical__antis__anti viral	number:	6
+
+	[["Biomedical__antis__anti viral", 6], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti oxidant", 3], ["Biomedical__treatments__cancer treatment", 3], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral agent", 2], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__treatments__diabetes treatment", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__modulators__modulate", 1]]:
+
+
+
+CCC(C)C1C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NCC(=O)NC(CSSCC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCNC(=N)N)CC(=O)O)CC(C)C)CCCCN)CC(C)C)CC2=CC=CC=C2)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)C(CC(=O)N)NC(=O)C(C)NC(=O)CNC(=O)C(CCCCN)NC(=O)C(CC3=CC=C(C=C3)O)NC(=O)C(CCCCN)NC(=O)C(CCCNC(=N)N)NC(=O)C(C)NC(=O)C(CC(=O)N)NC(=O)C4CCCN4C(=O)C(CC5=CN=CN5)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C6CCCN6)C(=O)O)CC(C)C)CO)CCSC)CO:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	6
+
+	[["Agriculture and Industry__role_relation__nutrient", 6], ["Biomedical__antis__anti biotic", 6], ["Biomedical__antis__anti bacterial", 6], ["Biomedical__health_effect_relation__Pancreatitis", 3], ["Biomedical__health_effect_relation__Metabolic syndrome", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 3], ["Agriculture and Industry__role_relation__cardiovascular", 3], ["Biomedical__disease__Cardiovascular disease", 3], ["Biomedical__treatments__Thyroxine treatment", 3], ["Agriculture and Industry__role_relation__Fat storage", 3], ["Biomedical__health_effect_relation__Atherosclerosis", 3], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__antis__anti body", 2], ["Biomedical__antis__anti viral", 2], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__inhibitors__thrombin inhibitor", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Agriculture and Industry__role_relation__Food and nutrition", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1]]:
+
+
+
+C1CN(CC1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	12
+
+	[["Agriculture and Industry__role_relation__inhibitor", 12], ["Biomedical__treatments__cancer treatment", 10], ["Biomedical__cancer__Cancer", 10], ["Biomedical__inhibitors__kinase inhibitor", 6], ["Biomedical__antis__anti viral", 4], ["Biomedical__antis__anti viral compound", 2], ["Biomedical__inhibitors__hbv inhibitor", 2], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__antis__anti inflammatory", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__inhibitors__kras g12c inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__inhibitors__pim kinase inhibitor", 1], ["Biomedical__inhibitors__betasecretase inhibitor", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Biomedical__treatments__alzheimer's disease treatment", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__inhibitors__ns5a inhibitor", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__p2x3 antagonist", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1=C(C(=CC=C1)F)C(=O)N2CCCC(C2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F:
+	properties:	Biomedical__antis__anti viral	number:	5
+
+	[["Biomedical__antis__anti viral", 5], ["Biomedical__cancer__Cancer", 4], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Agriculture and Industry__role_relation__immunomodulator", 3], ["Biomedical__immunomodulator", 3], ["Agriculture and Industry__role_relation__inflammatory", 3], ["Biomedical__antis__anti inflammatory", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral compound", 2], ["Biomedical__antis__anti cancer", 2], ["Biomedical__treatments__inflammatory treatment", 1], ["Biomedical__modulators__c5a receptor modulator", 1], ["Biomedical__treatments__autoimmune treatment", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__ccr2 antagonist", 1], ["Light and electricity__lights__organic electroluminescent device", 1], ["Light and electricity__lights__electroluminescent device", 1], ["Light and electricity__lights__organic electroluminescent", 1], ["Light and electricity__lights__electroluminescent", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__inhibitors__hiv inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCCCC1(CS(=O)(=O)C2=C(C=C(C=C2)N(C)C)C(C1O)C3=CC=C(C=C3)OCC4=CC=C(C=C4)C[N+]56CCN(CC5)CC6)CCCC:
+	properties:	Biomedical__cancer__Cancer	number:	5
+
+	[["Biomedical__cancer__Cancer", 5], ["Biomedical__antis__anti tussive", 4], ["Biomedical__antis__anti inflammatory", 3], ["Agriculture and Industry__role_relation__inflammatory", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti cancer", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Light and electricity__lights__fluorescent", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti cancer agent", 1], ["Light and electricity__lights__photochromic", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__health_effect_relation__Pain", 1], ["Biomedical__antis__anti inflammatory agent", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Light and electricity__lights__fluorescent dye", 1]]:
+
+
+
+CC1C(CC(C(=O)N1CC(F)(F)F)NC(=O)C2=CC3=C(CC4(C3)C5=C(NC4=O)N=CC=C5)N=C2)C6=C(C=CC(=C6F)F)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti viral", 5], ["Biomedical__antis__anti cancer", 4], ["Biomedical__inhibitors__hcv inhibitor", 4], ["Biomedical__treatments__migraine treatment", 2], ["Biomedical__health_effect_relation__Migraine", 2], ["Agriculture and Industry__role_relation__antagonist", 2], ["Biomedical__antagonists__cgrp receptor antagonist", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__cysteine protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ra inhibitor", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti inflammatory", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti bacterial drug", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__drug__Drug", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__rna polymerase inhibitor", 1], ["Light and electricity__lights__organic light-emitting diode", 1], ["Light and electricity__lights__organic light-emitting", 1], ["Light and electricity__lights__light-emitting", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__treatments__cancer treatment", 8], ["Biomedical__cancer__Cancer", 8], ["Biomedical__antis__anti body", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__inhibitors__egfr inhibitor", 2], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__mk2 inhibitor", 1], ["Biomedical__modulators__kinase modulator", 1], ["Biomedical__inhibitors__flt3 inhibitor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__nitric oxide synthase inhibitor", 1], ["Biomedical__inhibitors__no inhibitor", 1], ["Biomedical__antis__anti body drug conjugate", 1], ["Biomedical__drug__Drug", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)CC(C(=O)NC(CCCCN)C(=O)N1CCC(CC1)(C(=O)O)N)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CC3=CC=CC=C3)N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__inhibitors__protease inhibitor", 7], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__inhibitors__hcv protease inhibitor", 3], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__treatments__hepatitis c treatment", 2], ["Biomedical__health_effect_relation__Hepatitis", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__depressant__depressant", 1], ["Biomedical__antis__anti depressant", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__inhibitors__HIV protease inhibitor", 1], ["Biomedical__inhibitors__hiv protease inhibitor", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__health_effect_relation__Pain", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CS(=O)(=O)C1=C2C(C(C(C2=C(C=C1)OC3=CC(=CC(=C3)C#N)F)F)F)O:
+	properties:	Biomedical__cancer__Cancer	number:	9
+
+	[["Biomedical__cancer__Cancer", 9], ["Biomedical__treatments__cancer treatment", 7], ["Biomedical__antis__anti inflammatory", 5], ["Agriculture and Industry__role_relation__inflammatory", 5], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__antis__anti cancer", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__cyclooxygenase2 inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Light and electricity__electros__electronic device", 1], ["Light and electricity__electros__organic electronic device", 1], ["Biomedical__agonists__gpr40 agonist", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__treatments__diabetes treatment", 1], ["Light and electricity__lights__fluorescent", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral agent", 1]]:
+
+
+
+CCCCC1(CN(C2=CC(=C(C=C2S(=O)(=O)N1)OCC(=O)NC(C3=CC=C(C=C3)O)C(=O)NC(CC)C(=O)O)SC)C4=CC=CC=C4)CCCC:
+	properties:	Biomedical__antis__anti biotic	number:	4
+
+	[["Biomedical__antis__anti biotic", 4], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__health_effect_relation__Atherosclerosis", 2], ["Biomedical__antis__anti viral", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti thrombotic", 1], ["Agriculture and Industry__role_relation__Thrombotic", 1], ["Biomedical__antis__anti aggregating", 1], ["Biomedical__treatments__atherosclerosis treatment", 1], ["Biomedical__antis__anti asthmatic", 1], ["Biomedical__inhibitors__metalloproteinase inhibitor", 1], ["Biomedical__antis__anti oxidant", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Biomedical__inhibitors__ace inhibitor", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Light and electricity__lights__photoresist", 1]]:
+
+
+
+CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	13
+
+	[["Agriculture and Industry__role_relation__inhibitor", 13], ["Biomedical__inhibitors__kinase inhibitor", 10], ["Biomedical__cancer__Cancer", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__cdk inhibitor", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__antis__anti cancer", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CN1C(=CN=C1COC2=CC=C(C=C2)SC)[N+](=O)[O-]:
+	properties:	Biomedical__antis__anti bacterial	number:	9
+
+	[["Biomedical__antis__anti bacterial", 9], ["Biomedical__antis__anti microbial", 3], ["Biomedical__cancer__Cancer", 3], ["Light and electricity__lights__fluorescent", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__nitric oxide synthase inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti asthmatic", 1], ["Biomedical__antis__anti allergic", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Light and electricity__lights__fluorescent dye", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCOC1=NC=C(C2=C1C(C(=C(N2)C)C(=O)N)C3=C(C=C(C=C3)C#N)OC)C:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	11
+
+	[["Agriculture and Industry__role_relation__inhibitor", 11], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__cancer__Cancer", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__parp inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__antis__anti parasitic", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__health_effect_relation__Hypertension", 1], ["Biomedical__treatments__hypertension treatment", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__inhibitors__fgfr4 inhibitor", 1], ["Biomedical__treatments__arrhythmia treatment", 1], ["Biomedical__inhibitors__potassium channel inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)C(C)C1(CCC2(C3CCC4C5(COCC4(C3=CCC2(C1C(=O)O)C)CC(C5OCC(C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__inhibitors__hiv inhibitor", 6], ["Biomedical__antis__anti viral", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 3], ["Biomedical__antis__anti fungal", 3], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__inhibitors__hmgcoa reductase inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Light and electricity__lights__electroluminescent", 1]]:
+
+
+
+CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C.C1CC1CN2CCC34CC(=O)CCC3(C2CC5=C4C(=C(C=C5)C(=O)N)O)O:
+	properties:	Biomedical__cancer__Cancer	number:	10
+
+	[["Biomedical__cancer__Cancer", 10], ["Biomedical__antis__anti cancer", 6], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti viral", 3], ["Biomedical__antis__anti tussive", 2], ["Biomedical__antis__anti cancer agent", 2], ["Biomedical__antis__anti bacterial", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti angiogenic", 1], ["Agriculture and Industry__role_relation__neoplastic", 1], ["Biomedical__antis__anti neoplastic", 1], ["Biomedical__antis__anti viral agent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCN1CCN(CC1)C2=CC=C(C=C2)NC3=CC(=NC=N3)N(C)C(=O)NC4=C(C(=CC(=C4Cl)OC)OC)Cl:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	11
+
+	[["Agriculture and Industry__role_relation__inhibitor", 11], ["Biomedical__cancer__Cancer", 10], ["Biomedical__treatments__cancer treatment", 7], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__antis__anti cancer", 3], ["Biomedical__inhibitors__fgfr4 inhibitor", 2], ["Biomedical__inhibitors__gsk3 inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti tumor", 2], ["Biomedical__inhibitors__fgfr inhibitor", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__nutrient", 1], ["Biomedical__inhibitors__jak inhibitor", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1], ["Biomedical__antis__anti tumor agent", 1]]:
+
+
+
+CC1CN(CCN1C2=NC(=O)N(C3=NC(=C(C=C32)F)C4=C(C=CC=C4F)O)C5=C(C=CN=C5C(C)C)C)C(=O)C=C:
+	properties:	Biomedical__cancer__Cancer	number:	9
+
+	[["Biomedical__cancer__Cancer", 9], ["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__treatments__cancer treatment", 6], ["Biomedical__inhibitors__kras inhibitor", 4], ["Biomedical__antis__anti bodydrug conjugate", 3], ["Biomedical__antis__anti body", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__antis__anti cancer", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__kras g12c inhibitor", 1], ["Biomedical__inhibitors__ra inhibitor", 1], ["Biomedical__modulators__gamma secretase modulator", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__antis__anti bacterial agent", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+C1=CC(=NC=C1C(=O)NCCCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)F:
+	properties:	Human Interaction and Organoleptics__organoleptic_effect_relations__fungal	number:	4
+
+	[["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 4], ["Biomedical__antis__anti fungal", 4], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__antis__anti tumor", 3], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__antis__anti biotic", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__thrombin inhibitor", 1], ["Biomedical__antis__anti coagulant", 1], ["Agriculture and Industry__role_relation__coagulant", 1], ["Biomedical__antis__anti inflammatory", 1], ["Biomedical__inhibitors__caspase inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__treatments__inflammatory disease treatment", 1]]:
+
+
+
+COC(=O)C(C1CCCCN1C(=O)OC[N+]2=CC=CC(=C2)C(=O)NC(CO)C(=O)[O-])C3=CC=CC=C3.COC(=O)C(C1CCCCN1)C2=CC=CC=C2:
+	properties:	Biomedical__antis__anti bacterial	number:	5
+
+	[["Biomedical__antis__anti bacterial", 5], ["Biomedical__antis__anti tumor", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti biotic", 4], ["Biomedical__antis__anti cancer", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__modulators__chemokine receptor modulator", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__muscarinic antagonist", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__antis__anti viral agent", 1]]:
+
+
+
+CCOC1=CC=CC=C1OCC2CNCCO2:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	12
+
+	[["Agriculture and Industry__role_relation__inhibitor", 12], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__inhibitors__norepinephrine reuptake inhibitor", 3], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__inhibitors__renin inhibitor", 2], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__protein tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__akt inhibitor", 1], ["Biomedical__inhibitors__serotonin reuptake inhibitor", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti tumor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Biomedical__health_effect_relation__Hypertension", 1], ["Biomedical__treatments__hypertension treatment", 1], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)CC(C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(C(C)O)C(=O)O)NC(=O)C(CC1=CNC2=CC=CC=C21)NC(=O)C(CCCCN)NC(=O)C(C(C)C)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C)NC(=O)C(C)(C)NC(=O)C(CC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC5=CC=C(C=C5)O)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC6=CC=CC=C6)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C(CO)NC(=O)C(CC7=CNC=N7)N:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	6
+
+	[["Agriculture and Industry__role_relation__nutrient", 6], ["Biomedical__antis__anti biotic", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti bacterial", 4], ["Biomedical__antis__anti cancer", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 3], ["Biomedical__antis__anti microbial", 3], ["Biomedical__antis__anti fungal", 3], ["Biomedical__antis__anti body", 2], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__antis__anti allergic", 1], ["Biomedical__antis__anti allergic agent", 1], ["Biomedical__antis__anti body drug conjugate", 1], ["Biomedical__drug__Drug", 1], ["Biomedical__antis__anti bacterial agent", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1]]:
+
+
+
+CCCN=C1N(C(=O)C(=CC2=CC(=C(C=C2)OCC(CO)O)Cl)S1)C3=CC=CC=C3C:
+	properties:	Biomedical__antis__anti inflammatory	number:	6
+
+	[["Biomedical__antis__anti inflammatory", 6], ["Agriculture and Industry__role_relation__inflammatory", 6], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__antis__anti viral", 5], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral agent", 3], ["Biomedical__health_effect_relation__Hepatitis", 2], ["Biomedical__inhibitors__TNF inhibitor", 1], ["Biomedical__inhibitors__tnf inhibitor", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__treatments__hepatitis b treatment", 1], ["Biomedical__treatments__hepatitis B treatment", 1], ["Biomedical__antis__anti bacterial agent", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__pi3 kinase inhibitor", 1], ["Biomedical__modulators__modulate", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1=CC(=NO1)NC(=O)NC2=C(C=C(C=C2)OC3=C4C=C(C(=CC4=NC=C3)OC)OC)Cl:
+	properties:	Biomedical__cancer__Cancer	number:	8
+
+	[["Biomedical__cancer__Cancer", 8], ["Biomedical__treatments__cancer treatment", 7], ["Agriculture and Industry__role_relation__inhibitor", 7], ["Biomedical__antis__anti viral", 5], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__treatments__diabetes treatment", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__nitric oxide synthase inhibitor", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__inhibitors__Hsp90 inhibitor", 1], ["Biomedical__inhibitors__hsp90 inhibitor", 1], ["Biomedical__antis__anti parasitic", 1]]:
+
+
+
+CCOC(=O)C(CC1=CC=C(C=C1)F)NC(=O)C(CC2=CC=C(C=C2)N(CCCl)CCCl)N:
+	properties:	Biomedical__cancer__Cancer	number:	7
+
+	[["Biomedical__cancer__Cancer", 7], ["Biomedical__antis__anti cancer", 6], ["Biomedical__antis__anti cancer agent", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__antis__anti tumor", 3], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti tussive", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Biomedical__health_effect_relation__Malaria", 1], ["Biomedical__antis__anti malarial", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1C2C(C(C3C(O2)NC4=C(N3)C(=O)NC(=N4)N)(O)O)OP(=O)(O1)O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	7
+
+	[["Agriculture and Industry__role_relation__nutrient", 7], ["Biomedical__antis__anti bacterial", 5], ["Agriculture and Industry__role_relation__Energy storage", 4], ["Agriculture and Industry__role_relation__Membrane stabilizer", 4], ["Agriculture and Industry__role_relation__Energy source", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__cancer__Cancer", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__agonists__sting agonist", 2], ["Agriculture and Industry__role_relation__agonist", 2], ["Agriculture and Industry__role_relation__surfactant", 2], ["Agriculture and Industry__role_relation__Emulsifier", 2], ["Agriculture and Industry__role_relation__signalling molecule", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti biotic", 1]]:
+
+
+
+CN(C)P(=O)(N1CCN(CC1)C(=O)OCCOCCOCCO)OCC2CNCC(O2)N3C=CC(=NC3=O)N:
+	properties:	Biomedical__antis__anti viral	number:	7
+
+	[["Biomedical__antis__anti viral", 7], ["Biomedical__treatments__cancer treatment", 6], ["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti tumor", 4], ["Biomedical__antis__anti body drug conjugate", 3], ["Biomedical__antis__anti body", 3], ["Biomedical__drug__Drug", 3], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__treatments__hiv treatment", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__agonists__apj agonist", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1]]:
+
+
+
+CN1CCN(CC1)C1=CN=C(NC2=NC3=C(C=C4N3C3(CCCCC3)CNC4=O)C=N2)C=C1:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	17
+
+	[["Agriculture and Industry__role_relation__inhibitor", 17], ["Biomedical__inhibitors__kinase inhibitor", 11], ["Biomedical__treatments__cancer treatment", 10], ["Biomedical__cancer__Cancer", 10], ["Biomedical__inhibitors__pim kinase inhibitor", 4], ["Biomedical__inhibitors__cdk inhibitor", 2], ["Biomedical__inhibitors__cyclindependent kinase inhibitor", 1], ["Biomedical__inhibitors__mtor inhibitor", 1], ["Biomedical__inhibitors__mTOR inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__inhibitors__pi3k inhibitor", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__btk inhibitor", 1], ["Biomedical__modulators__kinase modulator", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__inhibitors__cmet inhibitor", 1]]:
+
+
+
+CC(C)OC1=C(C=C(C=C1)C2=NN(C3=NC=NC(=C23)N)C(C)C4=C(C(=O)C5=C(O4)C=CC(=C5)F)C6=CC(=CC=C6)F)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__cancer__Cancer", 7], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__antis__anti cancer", 4], ["Biomedical__antis__anti viral", 4], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__modulators__kinase modulator", 1], ["Biomedical__inhibitors__pi3 kinase inhibitor", 1], ["Biomedical__inhibitors__jak2 inhibitor", 1], ["Biomedical__inhibitors__kras inhibitor", 1], ["Biomedical__inhibitors__hiv inhibitor", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	13
+
+	[["Agriculture and Industry__role_relation__inhibitor", 13], ["Biomedical__inhibitors__kinase inhibitor", 7], ["Biomedical__antis__anti viral", 5], ["Biomedical__inhibitors__hcv inhibitor", 4], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 3], ["Biomedical__antis__anti fungal", 3], ["Biomedical__treatments__tumour treatment", 2], ["Biomedical__inhibitors__dppiv inhibitor", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__treatments__diabetes treatment", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__janus kinase inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)CC=CC=C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C:
+	properties:	Biomedical__cancer__Cancer	number:	6
+
+	[["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti viral", 5], ["Biomedical__antis__anti cancer", 4], ["Human Interaction and Organoleptics__toxin__toxic", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__antis__anti tumor", 2], ["Biomedical__antis__anti tumor activity", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1]]:
+
+
+
+CC1COC2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O.CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)C=CC#N:
+	properties:	Biomedical__antis__anti viral	number:	7
+
+	[["Biomedical__antis__anti viral", 7], ["Biomedical__cancer__Cancer", 5], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__antis__anti cancer", 4], ["Biomedical__inhibitors__hcv inhibitor", 4], ["Biomedical__antis__anti tumor", 3], ["Biomedical__antis__anti body", 2], ["Biomedical__antis__anti biotic", 2], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti bodydrug conjugate", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti tumor agent", 1], ["Agriculture and Industry__role_relation__neoplastic", 1], ["Biomedical__antis__anti neoplastic", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	11
+
+	[["Agriculture and Industry__role_relation__inhibitor", 11], ["Biomedical__inhibitors__kinase inhibitor", 7], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__inhibitors__janus kinase inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__btk inhibitor", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__jak3 inhibitor", 1], ["Biomedical__treatments__autoimmune treatment", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Smooth", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__food additive", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Agriculture and Industry__role_relation__Nutritional supplement", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC(NC1CC2=CC=C(C=C2)NC(=O)C3CCC4=NC=CC(=O)N34)C(C5=CC=CC=C5)O:
+	properties:	Biomedical__antis__anti viral	number:	9
+
+	[["Biomedical__antis__anti viral", 9], ["Agriculture and Industry__role_relation__inhibitor", 7], ["Biomedical__antis__anti tumor", 4], ["Biomedical__cancer__Cancer", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__antis__anti allergic", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__cmet inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__antis__anti thrombotic", 1], ["Agriculture and Industry__role_relation__Thrombotic", 1], ["Biomedical__cancer__Breast cancer", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__ns5a inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC:
+	properties:	Biomedical__antis__anti bacterial	number:	8
+
+	[["Biomedical__antis__anti bacterial", 8], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__antis__anti biotic", 2], ["Biomedical__health_effect_relation__Metabolic syndrome", 2], ["Biomedical__inhibitors__acc inhibitor", 2], ["Biomedical__treatments__metabolic syndrome treatment", 2], ["Biomedical__health_effect_relation__Obesity", 2], ["Biomedical__treatments__obesity treatment", 2], ["Biomedical__antis__anti inflammatory", 2], ["Biomedical__antis__anti proliferative", 2], ["Biomedical__antis__anti infective", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__treatments__fibrosis treatment", 1], ["Biomedical__modulators__cftr modulator", 1], ["Biomedical__treatments__cystic fibrosis treatment", 1], ["Biomedical__health_effect_relation__Cystic fibrosis", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti bacterial agent", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1COCCN1CCOC2=CC=C(C=C2)C3=CN=C(C=C3)CC(=O)NCC4=CC=CC=C4:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	11
+
+	[["Agriculture and Industry__role_relation__inhibitor", 11], ["Biomedical__cancer__Cancer", 9], ["Biomedical__inhibitors__kinase inhibitor", 8], ["Biomedical__treatments__cancer treatment", 7], ["Biomedical__antis__anti cancer", 2], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__modulators__kinase modulator", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__treatments__autoimmune treatment", 1], ["Biomedical__inhibitors__bcl2 inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__treatments__inflammation treatment", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti viral agent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC1CNC(C2=CC(=C(C=C2)F)NC(=O)C3=CC(=NN3C4=CC=CC(=C4)CN)C(F)(F)F)C5=CC=CC(=C5)C#N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__cancer__Cancer", 7], ["Biomedical__antis__anti cancer", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__inhibitors__protease inhibitor", 2], ["Biomedical__inhibitors__plasma kallikrein inhibitor", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__jak inhibitor", 1], ["Light and electricity__electros__electrolyte", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__inhibitors__factor xa inhibitor", 1], ["Biomedical__antis__anti coagulant", 1], ["Biomedical__antis__anti coagulant agent", 1], ["Agriculture and Industry__role_relation__coagulant", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__parp inhibitor", 1], ["Biomedical__modulators__cot modulator", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+[H+].C1=CC(=C(C=C1CCC(=O)NCCCCCC(=O)NCCCCC(C(=O)O)NC(=O)NC(CCC(=O)O)C(=O)O)CN(CCN(CC2=C(C=CC(=C2)CCC(=O)O)[O-])CC(=O)[O-])CC(=O)[O-])[O-].[Ga+3]:
+	properties:	Biomedical__cancer__Cancer	number:	5
+
+	[["Biomedical__cancer__Cancer", 5], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__antis__anti tumor", 3], ["Agriculture and Industry__role_relation__Energy source", 3], ["Agriculture and Industry__role_relation__nutrient", 3], ["Agriculture and Industry__role_relation__Energy storage", 2], ["Agriculture and Industry__role_relation__surfactant", 2], ["Agriculture and Industry__role_relation__Membrane stabilizer", 2], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__thrombin inhibitor", 1], ["Biomedical__antis__anti coagulant", 1], ["Agriculture and Industry__role_relation__coagulant", 1], ["Agriculture and Industry__role_relation__sequestrant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__antis__anti body drug conjugate", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__drug__Drug", 1], ["Biomedical__antis__anti oxidant", 1], ["Agriculture and Industry__role_relation__Food and nutrition", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruity", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fragrant", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sweet", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruit", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__health_effect_relation__Diabetes mellitus", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__health_effect_relation__Heart failure", 1], ["Biomedical__disease__Inflammatory bowel disease", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__disease__Celiac disease", 1], ["Biomedical__health_effect_relation__Renal cell carcinoma", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__health_effect_relation__Diabetes mellitus type 2", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1]]:
+
+
+
+CC1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)N1)NC(=O)C(CCCN=C(N)N)NC(=O)C)C(=O)N)CC2=CNC3=CC=CC=C32)CCCN=C(N)N)CC4=CC=CC=C4)CC5=CN=CN5:
+	properties:	Biomedical__antis__anti bacterial	number:	7
+
+	[["Biomedical__antis__anti bacterial", 7], ["Biomedical__antis__anti bodydrug conjugate", 6], ["Biomedical__antis__anti body", 6], ["Biomedical__cancer__Cancer", 4], ["Biomedical__treatments__cancer treatment", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Light and electricity__lights__fluorescent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+C1CN(CCC1CC(=O)N2CCC(CC2)C3C4=C(CCC5=C3N=CC(=C5)Br)C=C(C=C4Br)Cl)C(=O)N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	6
+
+	[["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__cancer__Cancer", 6], ["Biomedical__treatments__proliferative disease treatment", 3], ["Biomedical__antis__anti proliferative", 3], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__antis__anti cancer", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__mcl1 inhibitor", 1], ["Agriculture and Industry__role_relation__agrochemical", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__neoplastic", 1], ["Biomedical__antis__anti neoplastic", 1]]:
+
+
+
+CCC(CC)COC(=O)C(C)NP(=O)(OCC1C(C(C(O1)(C#N)C2=CC=C3N2N=CN=C3N)O)O)OC4=CC=CC=C4:
+	properties:	Biomedical__antis__anti viral	number:	15
+
+	[["Biomedical__antis__anti viral", 15], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__cancer__Cancer", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__treatments__cancer treatment", 1]]:
+
+
+
+CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)NC(C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	13
+
+	[["Agriculture and Industry__role_relation__inhibitor", 13], ["Biomedical__treatments__cancer treatment", 8], ["Biomedical__cancer__Cancer", 8], ["Biomedical__antis__anti viral", 7], ["Biomedical__inhibitors__kinase inhibitor", 6], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__inhibitors__pde10 inhibitor", 2], ["Biomedical__inhibitors__erk inhibitor", 1], ["Biomedical__treatments__psoriasis treatment", 1], ["Biomedical__inhibitors__ra inhibitor", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC=CC=C5)NC(=O)CN6CCN(CCN(CCN(CC6)CC(=O)[O-])CC(=O)[O-])CC(=O)O)C(=O)NC(C(C)O)C(=O)O)O.[Cu+2]:
+	properties:	Biomedical__cancer__Cancer	number:	5
+
+	[["Biomedical__cancer__Cancer", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 5], ["Biomedical__antis__anti bacterial", 4], ["Biomedical__antis__anti cancer", 3], ["Biomedical__treatments__cancer treatment", 2], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Human Interaction and Organoleptics__toxin__toxic", 2], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruity", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fragrant", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sweet", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruit", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C=C(CCCCCCCCCCCCCCCC1=NNN=N1)NS(=O)(=O)CCCC(=O)NCCOCCOCC(=O)NC(CCC(=O)NC(CCC(=O)NCCOCCOCC(=O)NC(CCCCNC(=O)CSCC(C(=O)O)N)C(=O)N)C(=O)O)C(=O)O:
+	properties:	Biomedical__cancer__Cancer	number:	7
+
+	[["Biomedical__cancer__Cancer", 7], ["Biomedical__antis__anti body", 6], ["Biomedical__treatments__cancer treatment", 6], ["Biomedical__antis__anti body drug conjugate", 2], ["Biomedical__drug__Drug", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti cancer", 1], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti oxidant", 1]]:
+
+
+
+CCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)CO:
+	properties:	Biomedical__antis__anti inflammatory	number:	7
+
+	[["Biomedical__antis__anti inflammatory", 7], ["Agriculture and Industry__role_relation__inflammatory", 7], ["Agriculture and Industry__role_relation__nutrient", 4], ["Biomedical__antis__anti viral", 3], ["Biomedical__antis__anti thrombotic", 2], ["Agriculture and Industry__role_relation__Thrombotic", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__inhibitors__cell adhesion inhibitor", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__antis__anti allergic", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__treatments__cancer treatment", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__antis__anti cancer", 1]]:
+
+
+
+CC1=CN(C(=O)NC1=O)C2CN(CC(O2)COP(=O)(N3CC(OC(C3)N4C=C(C(=O)NC4=O)C)COP(=O)(N5CC(OC(C5)N6C=NC7=C6N=C(NC7=O)N)COP(=O)(N8CC(OC(C8)N9C=C(C(=O)NC9=O)C)COP(=O)(N1CC(OC(C1)N1C=NC2=C1N=C(NC2=O)N)COP(=O)(N1CC(OC(C1)N1C=NC2=C1N=C(NC2=O)N)COP(=O)(N1CC(OC(C1)N1C=NC2=C(N=CN=C21)N)COP(=O)(N1CC(OC(C1)N1C=NC2=C(N=CN=C21)N)COP(=O)(N1CC(OC(C1)N1C=NC2=C1N=C(NC2=O)N)COP(=O)(N1CC(OC(C1)N1C=C(C(=O)NC1=O)C)COP(=O)(N1CC(OC(C1)N1C=CC(=NC1=O)N)COP(=O)(N1CC(OC(C1)N1C=C(C(=O)NC1=O)C)COP(=O)(N1CC(OC(C1)N1C=C(C(=O)NC1=O)C)COP(=O)(N1CC(OC(C1)N1C=NC2=C1N=C(NC2=O)N)COP(=O)(N1CC(OC(C1)N1C=NC2=C1N=C(NC2=O)N)COP(=O)(N1CC(OC(C1)N1C=CC(=NC1=O)N)COP(=O)(N1CC(OC(C1)N1C=CC(=NC1=O)N)COP(=O)(N1CC(OC(C1)N1C=C(C(=O)NC1=O)C)COP(=O)(N1CC(OC(C1)N1C=CC(=NC1=O)N)COP(=O)(N1CC(OC(C1)N1C=CC(=NC1=O)N)CO)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)N(C)C)P(=O)(N(C)C)OCC1CNCC(O1)N1C=CC(=NC1=O)N:
+	properties:	Biomedical__antis__anti viral	number:	6
+
+	[["Biomedical__antis__anti viral", 6], ["Biomedical__antis__anti bacterial", 3], ["Biomedical__antis__anti tumor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Agriculture and Industry__role_relation__agonist", 2], ["Biomedical__antis__anti tumor agent", 1], ["Light and electricity__lights__fluorescent dye", 1], ["Light and electricity__lights__fluorescent", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__agonists__sting agonist", 1], ["Biomedical__antis__anti body", 1], ["Agriculture and Industry__role_relation__Waste product", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Agriculture and Industry__role_relation__inhibitor", 1]]:
+
+
+
+COC1=C(SC=C1)CNCCC2(CCOC3(C2)CCCC3)C4=CC=CC=N4:
+	properties:	Biomedical__antis__anti bacterial	number:	5
+
+	[["Biomedical__antis__anti bacterial", 5], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__treatments__pain treatment", 3], ["Biomedical__health_effect_relation__Pain", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti viral", 2], ["Biomedical__antis__anti infective", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__inhibitors__bace inhibitor", 1], ["Biomedical__antis__anti psychotic", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__mdm2 inhibitor", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__modulators__ror\u03b3 modulator", 1], ["Biomedical__inhibitors__rsv inhibitor", 1]]:
+
+
+
+CC1=CC(=NN2C1=NC(=C2)C)C3=CC(=O)N4C=C(C=CC4=N3)N5CCNC6(C5)CC6:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	8
+
+	[["Agriculture and Industry__role_relation__inhibitor", 8], ["Biomedical__antis__anti tumor agent", 4], ["Biomedical__antis__anti tumor", 4], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti viral", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__treatments__treatment of disorder", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Agriculture and Industry__role_relation__nutrient", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__antagonist", 1], ["Biomedical__antagonists__ccr2 antagonist", 1], ["Biomedical__inhibitors__pde10 inhibitor", 1]]:
+
+
+
+CC1CS(=O)(=O)CCN1N=CC2=CC=C(O2)[N+](=O)[O-]:
+	properties:	Biomedical__cancer__Cancer	number:	5
+
+	[["Biomedical__cancer__Cancer", 5], ["Biomedical__antis__anti platelet", 4], ["Biomedical__antis__anti cancer", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sulfur", 2], ["Human Interaction and Organoleptics__toxin__toxic", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__antis__anti microbial", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti viral", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Light and electricity__lights__fluorescent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1=CN=C(C=C1)C2=NC=C(C=C2)C:
+	properties:	Light and electricity__lights__electroluminescent	number:	9
+
+	[["Light and electricity__lights__electroluminescent", 9], ["Light and electricity__lights__organic electroluminescent device", 7], ["Light and electricity__lights__electroluminescent device", 7], ["Light and electricity__lights__organic electroluminescent", 7], ["Agriculture and Industry__role_relation__nutrient", 5], ["Agriculture and Industry__role_relation__inhibitor", 3], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__treatments__inflammatory disease treatment", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__cancer__Lung cancer", 1], ["Biomedical__inhibitors__ezh2 inhibitor", 1], ["Biomedical__inhibitors__bromodomain inhibitor", 1]]:
+
+
+
+C1C(C(OC1N2C=NC(=NC2=O)N)CO)O.C1CN(C(=O)NC1O)C2C(C(C(O2)CO)O)(F)F:
+	properties:	Biomedical__antis__anti bacterial	number:	8
+
+	[["Biomedical__antis__anti bacterial", 8], ["Biomedical__antis__anti viral", 5], ["Biomedical__cancer__Cancer", 2], ["Biomedical__antis__anti tumor", 2], ["Biomedical__antis__anti cancer", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__health_effect_relation__Pain", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__treatments__obesity treatment", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti microbial", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC:
+	properties:	Biomedical__cancer__Cancer	number:	6
+
+	[["Biomedical__cancer__Cancer", 6], ["Biomedical__antis__anti cancer", 4], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__antis__anti viral", 4], ["Biomedical__antis__anti inflammatory", 3], ["Agriculture and Industry__role_relation__inflammatory", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 3], ["Biomedical__antis__anti fungal", 3], ["Agriculture and Industry__role_relation__diuretic", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__antis__anti thrombotic", 1], ["Agriculture and Industry__role_relation__Thrombotic", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__agonists__ppar agonist", 1], ["Biomedical__treatments__dyslipidemia treatment", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__treatments__diabetes treatment", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__inhibitors__ns3 protease inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1=CN=C2N1C3=C(C=C(C=C3)Br)C(=NC2CCC(=O)OC)C4=CC=CC=N4:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__antis__anti viral", 5], ["Biomedical__inhibitors__hcv inhibitor", 4], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__cancer__Cancer", 4], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Biomedical__inhibitors__bromodomain inhibitor", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__antis__anti microbial", 2], ["Biomedical__treatments__treatment of disorder", 1], ["Light and electricity__lights__light-emitting", 1], ["Light and electricity__lights__phosphorescent", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__fgfr inhibitor", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__pde4 inhibitor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CCCCCCC(=O)OCC(COC(=O)CCCCCC)OC(=O)CCCCCC:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	16
+
+	[["Agriculture and Industry__role_relation__nutrient", 16], ["Agriculture and Industry__role_relation__Energy storage", 7], ["Agriculture and Industry__role_relation__Membrane stabilizer", 7], ["Agriculture and Industry__role_relation__Energy source", 7], ["Biomedical__health_effect_relation__Atherosclerosis", 7], ["Biomedical__cancer__Cancer", 6], ["Biomedical__health_effect_relation__Metabolic syndrome", 5], ["Agriculture and Industry__role_relation__inflammatory", 5], ["Biomedical__health_effect_relation__Pancreatitis", 4], ["Agriculture and Industry__role_relation__cardiovascular", 4], ["Biomedical__disease__Cardiovascular disease", 4], ["Biomedical__treatments__Thyroxine treatment", 4], ["Biomedical__health_effect_relation__Obesity", 4], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 3], ["Agriculture and Industry__role_relation__Fat storage", 3], ["Biomedical__health_effect_relation__Ulcerative colitis", 3], ["Biomedical__cancer__Cervical cancer", 3], ["Biomedical__cancer__Breast cancer", 3], ["Biomedical__health_effect_relation__Colitis", 3], ["Agriculture and Industry__role_relation__surfactant", 2], ["Agriculture and Industry__role_relation__Emulsifier", 2], ["Agriculture and Industry__role_relation__signalling molecule", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 2], ["Agriculture and Industry__role_relation__Flavoring agent", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__mushroom", 1], ["Agriculture and Industry__role_relation__flavor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__must", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__musty", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Colorectal cancer", 1], ["Human Interaction and Organoleptics__toxin__Lipotoxicity", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__mild", 1]]:
+
+
+
+CC1=CC2=C(C3C4C5C6=C(C(=C7C(=C6C(N4C(C(C2)N3C)O)COC(=O)C8(CS5)C9=C(CCN8)C2=C(N9)C=CC(=C2)OC)OCO7)C)OC(=O)C)C(=C1OC)O:
+	properties:	Biomedical__antis__anti tumor	number:	9
+
+	[["Biomedical__antis__anti tumor", 9], ["Agriculture and Industry__role_relation__nutrient", 5], ["Biomedical__antis__anti tumoral", 3], ["Biomedical__cancer__Cancer", 3], ["Biomedical__antis__anti cancer", 2], ["Biomedical__antis__anti bacterial", 2], ["Biomedical__antis__anti viral", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__treatments__cancer treatment", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Light and electricity__lights__fluorescent dye", 1], ["Light and electricity__lights__fluorescent", 1]]:
+
+
+
+C1=CC2=C(C=C1C3=CN=C(C=C3)F)NC4=C2C=NC=C4:
+	properties:	Light and electricity__lights__electroluminescent	number:	10
+
+	[["Light and electricity__lights__electroluminescent", 10], ["Light and electricity__lights__organic electroluminescent device", 9], ["Light and electricity__lights__electroluminescent device", 9], ["Light and electricity__lights__organic electroluminescent", 9], ["Agriculture and Industry__role_relation__inhibitor", 6], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Light and electricity__lights__organic electroluminescence", 1], ["Light and electricity__lights__luminous efficiency", 1], ["Biomedical__inhibitors__prmt5 inhibitor", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Light and electricity__lights__phosphorescent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1CCC2C(C(OC3C24C1CCC(O3)(OO4)C)OC(=O)CCC(=O)O)C:
+	properties:	Biomedical__cancer__Cancer	number:	5
+
+	[["Biomedical__cancer__Cancer", 5], ["Biomedical__health_effect_relation__Malaria", 5], ["Biomedical__antis__anti malarial", 5], ["Agriculture and Industry__role_relation__nutrient", 5], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__antis__anti cancer", 2], ["Biomedical__treatments__fibrosis treatment", 2], ["Biomedical__antis__anti microbial", 2], ["Biomedical__antis__anti inflammatory", 2], ["Agriculture and Industry__role_relation__inflammatory", 2], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti bacterial", 1], ["Biomedical__antis__anti parasitic", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__treatments__hypercholesterolemia treatment", 1], ["Biomedical__inhibitors__hmgcoa reductase inhibitor", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Light and electricity__lights__photoresist", 1], ["Light and electricity__lights__photopolymerization", 1]]:
+
+
+
+CC12CCC3C(C1CC(C2O)F)CCC4=C3C=CC(=C4)O:
+	properties:	Biomedical__cancer__Cancer	number:	7
+
+	[["Biomedical__cancer__Cancer", 7], ["Biomedical__antis__anti cancer", 5], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 4], ["Biomedical__antis__anti inflammatory", 4], ["Agriculture and Industry__role_relation__inflammatory", 4], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__antis__anti tumor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 1], ["Light and electricity__lights__photochromic", 1], ["Biomedical__antis__anti allergic", 1], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Agriculture and Industry__role_relation__hormone", 1]]:
+
+
+
+CCN1C2=CC(=NC=C2C=C(C1=O)C3=CC(=C(C=C3Br)F)NC(=O)NC4=CC=CC=C4)NC:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	13
+
+	[["Agriculture and Industry__role_relation__inhibitor", 13], ["Biomedical__cancer__Cancer", 10], ["Biomedical__treatments__cancer treatment", 9], ["Biomedical__inhibitors__kinase inhibitor", 6], ["Biomedical__inhibitors__mdm2 inhibitor", 4], ["Biomedical__antis__anti viral", 3], ["Agriculture and Industry__role_relation__Energy storage", 2], ["Agriculture and Industry__role_relation__Membrane stabilizer", 2], ["Agriculture and Industry__role_relation__Energy source", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Smooth", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__food additive", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Agriculture and Industry__role_relation__Nutritional supplement", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__inhibitors__mcl1 inhibitor", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__cancer__Cancer", 5], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 4], ["Biomedical__antis__anti fungal", 4], ["Biomedical__inhibitors__ret kinase inhibitor", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Agriculture and Industry__role_relation__antagonist", 2], ["Biomedical__antagonists__muscarinic antagonist", 2], ["Biomedical__antis__anti biotic", 2], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Biomedical__inhibitors__nampt inhibitor", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__beta-lactamase inhibitor", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__inhibitors__sodium channel inhibitor", 1], ["Biomedical__health_effect_relation__Pain", 1]]:
+
+
+
+CNC(=O)C1=C(C=C(C=C1)C2=NN3C(=CN=C3N=C2)CC4=CC5=C(C=C4)N=CC=C5)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	11
+
+	[["Agriculture and Industry__role_relation__inhibitor", 11], ["Biomedical__cancer__Cancer", 9], ["Biomedical__inhibitors__kinase inhibitor", 9], ["Biomedical__treatments__cancer treatment", 7], ["Biomedical__antis__anti cancer", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__modulators__kinase modulator", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC1=C(C(=[N+](C(=C1Cl)C)[O-])Cl)C2=NOC(=N2)C3=CC(=C(C(=C3)O)O)[N+](=O)[O-]:
+	properties:	Biomedical__cancer__Cancer	number:	4
+
+	[["Biomedical__cancer__Cancer", 4], ["Agriculture and Industry__role_relation__inhibitor", 4], ["Biomedical__antis__anti bacterial", 4], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 3], ["Biomedical__treatments__cancer treatment", 3], ["Biomedical__inhibitors__Hsp90 inhibitor", 2], ["Biomedical__inhibitors__hsp90 inhibitor", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 2], ["Biomedical__antis__anti fungal", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__antis__anti mitotic", 1], ["Agriculture and Industry__role_relation__mitotic", 1], ["Biomedical__antis__anti cancer", 1], ["Light and electricity__lights__photosensitive", 1], ["Human Interaction and Organoleptics__toxin__toxic", 1], ["Light and electricity__lights__lightening", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__ret kinase inhibitor", 1], ["Biomedical__antis__anti microbial", 1]]:
+
+
+
+CCN1C2=C3C=C(NC3=NC=C2CN(C1=O)C4=C(C(=CC(=C4F)OC)OC)F)CN5CCOCC5:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	14
+
+	[["Agriculture and Industry__role_relation__inhibitor", 14], ["Biomedical__cancer__Cancer", 9], ["Biomedical__treatments__cancer treatment", 8], ["Biomedical__inhibitors__kinase inhibitor", 5], ["Biomedical__inhibitors__fgfr inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Agriculture and Industry__role_relation__nutrient", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__modulators__gamma secretase modulator", 1], ["Biomedical__treatments__alzheimer's treatment", 1], ["Biomedical__health_effect_relation__Ulcerative colitis", 1], ["Biomedical__cancer__Cervical cancer", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__health_effect_relation__Colitis", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Biomedical__inhibitors__pdk1 inhibitor", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__inhibitors__glyt1 inhibitor", 1], ["Biomedical__treatments__diabetes treatment", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__raf inhibitor", 1], ["Biomedical__inhibitors__pim kinase inhibitor", 1]]:
+
+
+
+CC1=C(C=CC(=C1)NC2=NC=NC3=C2C=C(C=C3)NC4=NC(CO4)(C)C)OC5=CC6=NC=NN6C=C5:
+	properties:	Biomedical__treatments__cancer treatment	number:	5
+
+	[["Biomedical__treatments__cancer treatment", 5], ["Biomedical__cancer__Cancer", 5], ["Agriculture and Industry__role_relation__inhibitor", 5], ["Light and electricity__lights__organic light-emitting", 4], ["Light and electricity__lights__organic light-emitting device", 4], ["Light and electricity__lights__light-emitting", 4], ["Light and electricity__lights__light-emitting device", 4], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__cancer__Breast cancer", 2], ["Biomedical__treatments__breast cancer treatment", 2], ["Light and electricity__lights__organic electroluminescent", 2], ["Light and electricity__lights__electroluminescent", 2], ["Agriculture and Industry__role_relation__nutrient", 2], ["Light and electricity__lights__fluorescent dye", 1], ["Light and electricity__lights__fluorescent", 1], ["Light and electricity__lights__organic electroluminescent material", 1], ["Light and electricity__lights__organic electroluminescent device", 1], ["Light and electricity__lights__electroluminescent device", 1], ["Light and electricity__lights__photosensitive", 1], ["Biomedical__cancer__Ovarian cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__inhibitors__Hsp90 inhibitor", 1], ["Biomedical__inhibitors__hsp90 inhibitor", 1]]:
+
+
+
+CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__cancer__Cancer", 6], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__antis__anti bacterial", 5], ["Biomedical__inhibitors__mek inhibitor", 4], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__antis__anti biotic", 1], ["Biomedical__antis__anti cancer agent", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti viral agent", 1], ["Biomedical__antis__anti microbial", 1], ["Biomedical__inhibitors__betasecretase inhibitor", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Biomedical__treatments__alzheimer's disease treatment", 1], ["Biomedical__inhibitors__hdac inhibitor", 1], ["Biomedical__antis__anti tumor", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)OC1=C(C=C(C=C1)C2=NC(=NO2)C3=C4CCC(C4=CC=C3)NCCO)C#N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	8
+
+	[["Agriculture and Industry__role_relation__inhibitor", 8], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 5], ["Biomedical__antis__anti fungal", 5], ["Biomedical__inhibitors__kinase inhibitor", 4], ["Biomedical__treatments__cancer treatment", 4], ["Biomedical__cancer__Cancer", 4], ["Agriculture and Industry__role_relation__agonist", 2], ["Biomedical__treatments__treatment of disorder", 1], ["Biomedical__inhibitors__p38 kinase inhibitor", 1], ["Biomedical__inhibitors__nitric oxide synthase inhibitor", 1], ["Biomedical__inhibitors__jak inhibitor", 1], ["Biomedical__antis__anti inflammatory", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__inhibitors__hdm2 inhibitor", 1], ["Agriculture and Industry__role_relation__hormone", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC2=CN=CN2C1C3=C(C=C(C=C3)C#N)F:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	9
+
+	[["Agriculture and Industry__role_relation__inhibitor", 9], ["Biomedical__cancer__Cancer", 7], ["Biomedical__treatments__cancer treatment", 5], ["Biomedical__antis__anti cancer", 3], ["Biomedical__inhibitors__kinase inhibitor", 3], ["Biomedical__antis__anti proliferative", 2], ["Biomedical__antis__anti cancer agent", 2], ["Biomedical__inhibitors__nampt inhibitor", 2], ["Biomedical__inhibitors__parp inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Agriculture and Industry__role_relation__androgen", 1], ["Biomedical__modulators__androgen receptor modulator", 1], ["Light and electricity__lights__organic light-emitting", 1], ["Light and electricity__lights__organic light-emitting device", 1], ["Light and electricity__lights__light-emitting", 1], ["Light and electricity__lights__light-emitting device", 1], ["Light and electricity__lights__organic electroluminescence", 1], ["Light and electricity__lights__organic electroluminescent device", 1], ["Light and electricity__lights__electroluminescent device", 1], ["Light and electricity__lights__organic electroluminescent", 1], ["Light and electricity__lights__electroluminescent", 1], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__health_effect_relation__Schizophrenia", 1], ["Biomedical__treatments__schizophrenia treatment", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Light and electricity__lights__phosphorescent", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+C1CC(C2=C(C=CC=N2)C(C1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	5
+
+	[["Agriculture and Industry__role_relation__inhibitor", 5], ["Biomedical__cancer__Cancer", 5], ["Biomedical__antis__anti viral", 4], ["Biomedical__antis__anti tumor", 3], ["Biomedical__antis__anti cancer", 3], ["Agriculture and Industry__role_relation__antagonist", 2], ["Biomedical__antagonists__cgrp receptor antagonist", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__antagonists__cgrpantagonists", 1], ["Biomedical__treatments__pain treatment", 1], ["Biomedical__treatments__neuropathic pain treatment", 1], ["Biomedical__health_effect_relation__Pain", 1], ["Biomedical__inhibitors__gsk3 inhibitor", 1], ["Biomedical__inhibitors__mdm2 inhibitor", 1], ["Biomedical__agonists__sting agonist", 1], ["Agriculture and Industry__role_relation__agonist", 1], ["Biomedical__cancer__Kidney cancer", 1], ["Biomedical__antis__anti viral compound", 1], ["Biomedical__inhibitors__kinase inhibitor", 1]]:
+
+
+
+CCN1CCCC1CNC(=O)C2=CC(=C(C=C2OC)N)S(=O)(=O)CC:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	10
+
+	[["Agriculture and Industry__role_relation__inhibitor", 10], ["Biomedical__antis__anti viral", 5], ["Biomedical__antis__anti inflammatory", 3], ["Biomedical__antis__anti ulcer", 3], ["Agriculture and Industry__role_relation__inflammatory", 3], ["Biomedical__inhibitors__glyt1 inhibitor", 2], ["Biomedical__inhibitors__kinase inhibitor", 2], ["Biomedical__inhibitors__hcv inhibitor", 2], ["Biomedical__treatments__cancer treatment", 2], ["Biomedical__cancer__Cancer", 2], ["Biomedical__inhibitors__bromodomain inhibitor", 1], ["Biomedical__inhibitors__protein kinase inhibitor", 1], ["Biomedical__inhibitors__rho kinase inhibitor", 1], ["Biomedical__inhibitors__hbv inhibitor", 1], ["Biomedical__antis__anti viral agent", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Agriculture and Industry__role_relation__hypertensive", 1], ["Biomedical__antis__anti hypertensive", 1], ["Biomedical__inhibitors__thrombin inhibitor", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__treatments__hepatitis c treatment", 1], ["Biomedical__inhibitors__hcv protease inhibitor", 1], ["Biomedical__inhibitors__protease inhibitor", 1], ["Biomedical__health_effect_relation__Hepatitis", 1], ["Biomedical__antis__anti bacterial", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	8
+
+	[["Agriculture and Industry__role_relation__nutrient", 8], ["Biomedical__antis__anti fouling", 5], ["Agriculture and Industry__role_relation__Energy storage", 3], ["Agriculture and Industry__role_relation__Membrane stabilizer", 3], ["Agriculture and Industry__role_relation__Energy source", 3], ["Light and electricity__electros__electrolyte", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruity", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sulfurous", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sulfur", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fruit", 2], ["Agriculture and Industry__role_relation__surfactant", 2], ["Agriculture and Industry__role_relation__Emulsifier", 2], ["Light and electricity__lights__liquid crystal", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1]]:
+
+
+
+C(C1C(C(C(C(O1)OC(C(CO)O)C(C(CO)O)O)O)O)O)O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	14
+
+	[["Agriculture and Industry__role_relation__nutrient", 14], ["Agriculture and Industry__role_relation__Energy storage", 6], ["Agriculture and Industry__role_relation__Membrane stabilizer", 6], ["Agriculture and Industry__role_relation__Energy source", 6], ["Biomedical__cancer__Cancer", 3], ["Human Interaction and Organoleptics__organoleptic_effect_relations__malt", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__sweet", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__brown", 2], ["Agriculture and Industry__role_relation__surfactant", 2], ["Agriculture and Industry__role_relation__Emulsifier", 2], ["Agriculture and Industry__role_relation__signalling molecule", 2], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti bacterial", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Biomedical__health_effect_relation__Atherosclerosis", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__antis__anti cancer", 1]]:
+
+
+
+CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5:
+	properties:	Biomedical__treatments__cancer treatment	number:	11
+
+	[["Biomedical__treatments__cancer treatment", 11], ["Biomedical__cancer__Cancer", 11], ["Agriculture and Industry__role_relation__inhibitor", 8], ["Biomedical__antis__anti body", 4], ["Biomedical__inhibitors__ezh2 inhibitor", 3], ["Biomedical__inhibitors__hcv inhibitor", 3], ["Biomedical__antis__anti viral", 3], ["Biomedical__inhibitors__kinase inhibitor", 1], ["Biomedical__inhibitors__pi3k inhibitor", 1], ["Biomedical__antis__anti proliferative", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Aging", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Heart disease", 1], ["Biomedical__health_effect_relation__Barth syndrome", 1], ["Agriculture and Industry__role_relation__Apoptosis", 1], ["Agriculture and Industry__role_relation__Cholesterol translocation", 1], ["Agriculture and Industry__role_relation__Stabilizing cytochrome oxidase", 1], ["Agriculture and Industry__role_relation__Proton trap for oxidative phosphorylation", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Diabetic heart disease", 1], ["Agriculture and Industry__role_relation__Stabilizing mitochondrial structure", 1], ["Biomedical__disease__Tangier disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__antis__anti tumor agent", 1], ["Biomedical__antis__anti tumor", 1], ["Biomedical__antis__anti body drug conjugate", 1], ["Biomedical__drug__Drug", 1], ["Biomedical__antis__anti viral compound", 1], ["Agriculture and Industry__role_relation__nutrient", 1]]:
+
+
+
+CC(C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N:
+	properties:	Agriculture and Industry__role_relation__inhibitor	number:	12
+
+	[["Agriculture and Industry__role_relation__inhibitor", 12], ["Biomedical__inhibitors__kinase inhibitor", 10], ["Biomedical__cancer__Cancer", 7], ["Biomedical__treatments__cancer treatment", 6], ["Biomedical__inhibitors__ret kinase inhibitor", 2], ["Biomedical__antis__anti viral", 2], ["Biomedical__inhibitors__janus kinase inhibitor", 1], ["Biomedical__antis__anti body", 1], ["Biomedical__inhibitors__tyrosine kinase inhibitor", 1], ["Biomedical__antis__anti cancer", 1], ["Biomedical__antis__anti proliferative", 1], ["Biomedical__antis__anti biotic", 1], ["Biomedical__inhibitors__sodium channel inhibitor", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1], ["Biomedical__inhibitors__hcv inhibitor", 1], ["Biomedical__antis__anti viral compound", 1]]:
+
+
+
+CC12CCC(=O)C=C1C3CC3C4C2CCC5(C4C6CC6C57CCC(=O)O7)C.CC12CCC3C(C1C(C(C2O)O)O)CCC4=C3C=CC(=C4)O:
+	properties:	Biomedical__cancer__Cancer	number:	9
+
+	[["Biomedical__cancer__Cancer", 9], ["Biomedical__treatments__cancer treatment", 6], ["Agriculture and Industry__role_relation__nutrient", 5], ["Biomedical__antis__anti inflammatory", 4], ["Agriculture and Industry__role_relation__inflammatory", 4], ["Biomedical__antis__anti cancer", 3], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Agriculture and Industry__role_relation__surfactant", 1], ["Agriculture and Industry__role_relation__Emulsifier", 1], ["Agriculture and Industry__role_relation__signalling molecule", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__treatments__breast cancer treatment", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fungal", 1], ["Biomedical__antis__anti fungal", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__alcoholic", 1], ["Biomedical__health_effect_relation__Diabetes mellitus", 1], ["Biomedical__disease__Alzheimer's Disease", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fatty", 1], ["Biomedical__disease__Non-alcoholic fatty liver disease", 1], ["Biomedical__disease__Parkinson's disease", 1], ["Biomedical__disease__Liver disease", 1], ["Biomedical__health_effect_relation__Diabetes mellitus type 2", 1]]:
+
+
+
+CC1=CCC[C@@H]2[C@]1(C)CC[C@H](C)[C@@]2(C)CC1=CC(=O)C(NCCS(=O)(=O)O)=CC1=O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	17
+
+	[["Agriculture and Industry__role_relation__nutrient", 17], ["Agriculture and Industry__role_relation__Energy storage", 9], ["Agriculture and Industry__role_relation__Membrane stabilizer", 9], ["Agriculture and Industry__role_relation__Energy source", 9], ["Agriculture and Industry__role_relation__surfactant", 5], ["Agriculture and Industry__role_relation__Emulsifier", 5], ["Light and electricity__lights__fluorescent", 1], ["Biomedical__antis__anti thrombotic", 1], ["Agriculture and Industry__role_relation__Thrombotic", 1], ["Agriculture and Industry__role_relation__inhibitor", 1], ["Biomedical__inhibitors__angiotensin converting enzyme inhibitor", 1], ["Agriculture and Industry__role_relation__enzyme inhibitor", 1], ["Biomedical__inhibitors__EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor", 1], ["Agriculture and Industry__role_relation__Enzyme", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__cancer__Lung cancer", 1]]:
+
+
+
+CC1=CC[C@@H]2[C@@]3(C)CCCC(C)(C)[C@@H]3CC[C@@]2(C)[C@@H]1Cc1cc(C(=O)O)ccc1O:
+	properties:	Agriculture and Industry__role_relation__nutrient	number:	16
+
+	[["Agriculture and Industry__role_relation__nutrient", 16], ["Agriculture and Industry__role_relation__Energy storage", 11], ["Agriculture and Industry__role_relation__Membrane stabilizer", 11], ["Agriculture and Industry__role_relation__Energy source", 11], ["Agriculture and Industry__role_relation__surfactant", 10], ["Agriculture and Industry__role_relation__Emulsifier", 10], ["Agriculture and Industry__role_relation__signalling molecule", 2], ["Human Interaction and Organoleptics__organoleptic_effect_relations__bitter", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__Bitter", 1], ["Agriculture and Industry__role_relation__bitter", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Cancer", 1], ["Biomedical__treatments__prostate cancer treatment", 1], ["Biomedical__cancer__Prostate cancer", 1]]:
+
+
+
+[Br-].CCCCCCCCCCCCCCCC[n+]1ccccc1:
+	properties:	Human Interaction and Organoleptics__toxin__toxic	number:	10
+
+	[["Human Interaction and Organoleptics__toxin__toxic", 10], ["Agriculture and Industry__role_relation__nutrient", 3], ["Biomedical__cancer__Cancer", 3], ["Agriculture and Industry__role_relation__inhibitor", 2], ["Biomedical__inhibitors__corrosion inhibitor", 2], ["Biomedical__antis__anti microbial", 2], ["Biomedical__health_effect_relation__Atherosclerosis", 2], ["Light and electricity__lights__lightening", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__strong", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__amine", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__salt", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__faint", 1], ["Biomedical__health_effect_relation__Pancreatitis", 1], ["Biomedical__health_effect_relation__Metabolic syndrome", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__fat", 1], ["Agriculture and Industry__role_relation__cardiovascular", 1], ["Agriculture and Industry__role_relation__Energy storage", 1], ["Biomedical__disease__Cardiovascular disease", 1], ["Biomedical__treatments__Thyroxine treatment", 1], ["Agriculture and Industry__role_relation__Fat storage", 1], ["Agriculture and Industry__role_relation__Membrane stabilizer", 1], ["Agriculture and Industry__role_relation__Energy source", 1], ["Biomedical__health_effect_relation__Obesity", 1], ["Agriculture and Industry__role_relation__inflammatory", 1], ["Biomedical__treatments__cancer treatment", 1], ["Biomedical__cancer__Lung cancer", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__smoke", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__acrid", 1], ["Human Interaction and Organoleptics__organoleptic_effect_relations__odorless", 1], ["Biomedical__health_effect_relation__Ulcerative colitis", 1], ["Biomedical__cancer__Cervical cancer", 1], ["Biomedical__cancer__Breast cancer", 1], ["Biomedical__health_effect_relation__Colitis", 1]]:
+
+
+

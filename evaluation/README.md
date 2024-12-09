@@ -98,11 +98,21 @@ If you found our work useful, please cite:
 
 
 ```bibtex
-@article{edwards2024_LPM24,
-  title={L+M-24: Building a Dataset for Language+Molecules @ ACL 2024},
-  author={Edwards, Carl and Wang, Qingyun and Zhou, Lawrence and Ji, Heng},
-  journal={arXiv preprint arXiv:2403.00791},
-  year={2024}
+
+@inproceedings{edwards2024_LPM24,
+    title = "{L}+{M}-24: Building a Dataset for {L}anguage+{M}olecules @ {ACL} 2024",
+    author = "Edwards, Carl  and
+      Wang, Qingyun  and
+      Zhao, Lawrence  and
+      Ji, Heng",
+    booktitle = "Proceedings of the 1st Workshop on Language + Molecules (L+M 2024)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.langmol-1.1",
+    doi = "10.18653/v1/2024.langmol-1.1",
+    pages = "1--9",
 }
 
 @inproceedings{edwards-etal-2022-translation,

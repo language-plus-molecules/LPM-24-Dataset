@@ -11,6 +11,10 @@ Please see the manuscript for this dataset [here](https://arxiv.org/pdf/2403.007
 
 ## News
 
+* Details on the shared task is [now released](/shared_task.pdf)
+* Final evaluation code and shared task submissions have been made available [here](/final_evaluation/). The submissions are being made available to allow the study of ensemble methods. 
+* * Details on the mystery molecules used in the shared task are [available](/shared_task.pdf). Our majority voting ensemble for [mystery molecules](/final_evaluation/captioning/mystery_mols.txt) is available [here](/final_evaluation/captioning/mystery_molecules_ensemble.txt). 
+
 * The [official leaderboard](https://language-plus-molecules.github.io/#leaderboard) is now available!! We will upload the scripts used for the final evaluation and ranking soon.
 
 * Submissions can now be uploaded to Codabench! See the competitions at: [Molecule Captioning](https://www.codabench.org/competitions/2914) and [Molecule Generation](https://www.codabench.org/competitions/3014). See instructions on the [website](https://language-plus-molecules.github.io/#submission).
@@ -79,11 +83,21 @@ If you found this dataset or code useful, please cite:
 
 
 ```bibtex
-@article{edwards2024_LPM24,
-  title={L+M-24: Building a Dataset for Language+Molecules @ ACL 2024},
-  author={Edwards, Carl and Wang, Qingyun and Zhou, Lawrence and Ji, Heng},
-  journal={arXiv preprint arXiv:2403.00791},
-  year={2024}
+
+@inproceedings{edwards2024_LPM24,
+    title = "{L}+{M}-24: Building a Dataset for {L}anguage+{M}olecules @ {ACL} 2024",
+    author = "Edwards, Carl  and
+      Wang, Qingyun  and
+      Zhao, Lawrence  and
+      Ji, Heng",
+    booktitle = "Proceedings of the 1st Workshop on Language + Molecules (L+M 2024)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.langmol-1.1",
+    doi = "10.18653/v1/2024.langmol-1.1",
+    pages = "1--9",
 }
 
 @inproceedings{edwards-etal-2022-translation,

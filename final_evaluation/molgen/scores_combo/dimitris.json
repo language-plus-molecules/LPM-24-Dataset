@@ -1,0 +1,1 @@
+{"Combo BLEU": 0.7693314549769902, "Combo exact_match": 9.148293843198243e-05, "Combo levenshtein": 45.67551001738176, "Combo validity": 0.9899368767724819, "Combo maccs_sim": 0.8589825189132183, "Combo rdk_sim": 0.7934703586134283, "Combo morgan_sim": 0.5528022013720961, "Combo FCD": 3.509053633206932}
